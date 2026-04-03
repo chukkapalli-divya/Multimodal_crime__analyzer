@@ -421,7 +421,7 @@ query_incidents(df_unified, min_confidence=0.9)
 
 ```
         ┌──────────────────────────────────────────────────┐
-        │              TEAM LEAD (Lokesh)                   │
+        │              TEAM EFFORTS                  │
         │  Creates repo → Folder structure → Add members    │
         └─────────────────────┬────────────────────────────┘
                               │
