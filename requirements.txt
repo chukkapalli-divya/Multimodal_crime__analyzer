@@ -1,0 +1,40 @@
+# ============================================
+# Multimodal Crime / Incident Report Analyzer
+# ============================================
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Audio Analyst
+openai-whisper>=20230314
+torchaudio>=2.0.0
+
+# NLP / Text Processing
+spacy>=3.6.0
+nltk>=3.8.0
+transformers>=4.30.0
+
+# Object Detection & Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+
+# PDF Processing
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Video Processing
+imageio>=2.31.0
+moviepy>=1.0.3
+
+# spaCy English Model (run after install)
+# python -m spacy download en_core_web_sm
