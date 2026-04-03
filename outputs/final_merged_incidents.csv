@@ -1,0 +1,23 @@
+Source_Modality,Event_Type,Location,Sentiment,Confidence_Score,Incident_ID,Source_Modality_PDF,Event_Type_PDF,Location_PDF,Sentiment_PDF,Confidence_Score_PDF,Source_Modality_Image,Event_Type_Image,Location_Image,Sentiment_Image,Confidence_Score_Image,Source_Modality_Video,Event_Type_Video,Location_Video,Sentiment_Video,Confidence_Score_Video,Source_Modality_Text,Event_Type_Text,Location_Text,Sentiment_Text,Confidence_Score_Text
+Audio,Unknown,Unknown,Calm,0.0,INC_001,PDF,MRAP,Fort Smith Police Department,Neutral,0.9,Image,Unknown,Scene Image,N/A,0.11,Video,Person stationary (possible collapse),CCTV Footage,N/A,0.66,Text,Shooting / Gun Violence,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Distressed,0.0,INC_002,PDF,MRAP,Fort Smith Police Department,Neutral,0.9,Image,Fire Scene,Scene Image,N/A,0.753,Video,Person stationary (possible collapse),CCTV Footage,N/A,0.45,Text,Shooting / Gun Violence,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Calm,0.0,INC_003,PDF,MRAP,"1
+Hot Springs Police Department",Neutral,0.9,Image,Unknown,Scene Image,N/A,0.515,Video,Person walking,CCTV Footage,N/A,0.79,Text,Suspicious Activity,Chicago,NEGATIVE,0.85
+Audio,Unknown,Unknown,Calm,0.0,INC_004,PDF,MRAP,"2
+Hot Springs Police Department",Neutral,0.9,Image,Unknown,Scene Image,N/A,0.412,Video,Person stationary (possible collapse),CCTV Footage,N/A,0.73,Text,Suspicious Activity,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Distressed,0.0,INC_005,PDF,MRAP,"3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hot Springs Police Department",Neutral,0.9,Image,Unknown,Scene Image,N/A,0.459,Video,Normal / no activity,CCTV Footage,N/A,0.67,Text,Suspicious Activity,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Calm,0.0,INC_006,PDF,MRAP,which was allocated to the Jacksonville AR Police Department,Neutral,0.9,Image,Unknown,Scene Image,N/A,0.386,Video,Normal / no activity,CCTV Footage,N/A,0.65,Text,Suspicious Activity,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Concerned,0.1,INC_007,PDF,1033,The Jefferson County Sheriff’s Office,Neutral,0.9,Image,Vehicle Accident,Scene Image,N/A,0.693,Video,Normal / no activity,CCTV Footage,N/A,0.52,Text,Robbery / Theft,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Distressed,0.0,INC_008,PDF,MRAP,Lonoke County Sheriff’s Office,Neutral,0.9,Image,Unknown,Scene Image,N/A,0.466,Video,Normal / no activity,CCTV Footage,N/A,0.65,Text,Assault / Violence,Pakistan,NEGATIVE,0.85
+Audio,Unknown,Unknown,Calm,0.0,INC_009,PDF,MRAP,Lonoke County Sheriff’s Office,Neutral,0.9,Image,Unknown,Scene Image,N/A,0.03,Video,Person stationary (possible collapse),CCTV Footage,N/A,0.61,Text,Suspicious Activity,Unknown,NEGATIVE,0.85
+Audio,Unknown,Unknown,Concerned,0.0,INC_010,PDF,MRAP,Lonoke County Sheriff’s Office,Neutral,0.9,Image,Unknown,Scene Image,N/A,0.0,Video,Person stationary (possible collapse),CCTV Footage,N/A,0.48,Text,Drug-Related Crime,Baltimore,POSITIVE,0.85

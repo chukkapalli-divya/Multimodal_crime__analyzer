@@ -1,0 +1,11 @@
+Incident_ID,Audio_Event,PDF_Doc_Type,Image_Objects,Video_Event,Text_Crime_Type,Severity
+INC_001,Unknown,MRAP,Unknown,Person stationary (possible collapse),Shooting / Gun Violence,High
+INC_002,Unknown,MRAP,Fire Scene,Person stationary (possible collapse),Shooting / Gun Violence,High
+INC_003,Unknown,MRAP,Unknown,Person walking,Suspicious Activity,Low
+INC_004,Unknown,MRAP,Unknown,Person stationary (possible collapse),Suspicious Activity,High
+INC_005,Unknown,MRAP,Unknown,Normal / no activity,Suspicious Activity,Low
+INC_006,Unknown,MRAP,Unknown,Normal / no activity,Suspicious Activity,Low
+INC_007,Unknown,1033,Vehicle Accident,Normal / no activity,Robbery / Theft,Medium
+INC_008,Unknown,MRAP,Unknown,Normal / no activity,Assault / Violence,High
+INC_009,Unknown,MRAP,Unknown,Person stationary (possible collapse),Suspicious Activity,High
+INC_010,Unknown,MRAP,Unknown,Person stationary (possible collapse),Drug-Related Crime,High

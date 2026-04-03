@@ -1,0 +1,116 @@
+Text_ID,Crime_Type,Location_Entity,Sentiment,Topic,Severity_Label
+TXT_001,Shooting / Gun Violence,Unknown,NEGATIVE,shooting / gun violence,High
+TXT_002,Shooting / Gun Violence,Unknown,NEGATIVE,shooting / gun violence,High
+TXT_003,Suspicious Activity,Chicago,NEGATIVE,suspicious activity,Low
+TXT_004,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_005,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_006,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_007,Robbery / Theft,Unknown,NEGATIVE,robbery / theft,Low
+TXT_008,Assault / Violence,Pakistan,NEGATIVE,assault / violence,Medium
+TXT_009,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_010,Drug-Related Crime,Baltimore,POSITIVE,drug-related crime,Low
+TXT_011,Suspicious Activity,Redbridge,NEGATIVE,suspicious activity,Low
+TXT_012,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_013,Suspicious Activity,Unknown,POSITIVE,suspicious activity,Low
+TXT_014,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_015,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_016,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_017,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_018,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_019,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_020,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_021,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_022,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_023,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_024,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_025,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_026,Robbery / Theft,Delhi,NEGATIVE,robbery / theft,Low
+TXT_027,Suspicious Activity,Mumbai,NEGATIVE,suspicious activity,Low
+TXT_028,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_029,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_030,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_031,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_032,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_033,Suspicious Activity,Onitsha,NEGATIVE,suspicious activity,Low
+TXT_034,Shooting / Gun Violence,Unknown,NEGATIVE,shooting / gun violence,High
+TXT_035,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_036,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_037,Suspicious Activity,Petaluma,NEGATIVE,suspicious activity,Low
+TXT_038,Suspicious Activity,Bay Area,NEGATIVE,suspicious activity,Low
+TXT_039,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_040,Assault / Violence,Unknown,NEGATIVE,assault / violence,Medium
+TXT_041,Assault / Violence,St. Louis County,POSITIVE,assault / violence,Medium
+TXT_042,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_043,Burglary / Break-In,Unknown,NEGATIVE,burglary / break-in,Low
+TXT_044,Assault / Violence,Delhi,NEGATIVE,assault / violence,Medium
+TXT_045,Shooting / Gun Violence,Pontchartrain Park,POSITIVE,shooting / gun violence,High
+TXT_046,Assault / Violence,Delhi,NEGATIVE,assault / violence,Medium
+TXT_047,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_048,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_049,Suspicious Activity,Petaluma,NEGATIVE,suspicious activity,Low
+TXT_050,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_051,Suspicious Activity,Petaluma,NEGATIVE,suspicious activity,Low
+TXT_052,Shooting / Gun Violence,Pontchartrain Park,NEGATIVE,shooting / gun violence,High
+TXT_053,Shooting / Gun Violence,Detroit,NEGATIVE,shooting / gun violence,High
+TXT_054,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_055,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_056,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_057,Suspicious Activity,Lincolnshire,POSITIVE,suspicious activity,Low
+TXT_058,Suspicious Activity,Petaluma,NEGATIVE,suspicious activity,Low
+TXT_059,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_060,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_061,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_062,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_063,Suspicious Activity,Unknown,POSITIVE,suspicious activity,Medium
+TXT_064,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_065,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_066,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_067,Shooting / Gun Violence,Pontchartrain Park,NEGATIVE,shooting / gun violence,High
+TXT_068,Shooting / Gun Violence,Pontchartrain Park,NEGATIVE,shooting / gun violence,High
+TXT_069,Shooting / Gun Violence,Pontchartrain Park,NEGATIVE,shooting / gun violence,High
+TXT_070,Shooting / Gun Violence,Unknown,POSITIVE,shooting / gun violence,High
+TXT_071,Suspicious Activity,"Simi Valley, Simi Valley's",NEGATIVE,suspicious activity,Low
+TXT_072,Shooting / Gun Violence,Pontchartrain Park Man,NEGATIVE,shooting / gun violence,High
+TXT_073,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_074,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_075,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_076,Shooting / Gun Violence,Pontchartrain Park,NEGATIVE,shooting / gun violence,High
+TXT_077,Drug-Related Crime,Springfield,POSITIVE,drug-related crime,Low
+TXT_078,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_079,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_080,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_081,Assault / Violence,"San Francisco, Oakland",NEGATIVE,assault / violence,Medium
+TXT_082,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_083,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_084,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_085,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_086,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_087,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_088,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_089,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_090,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_091,Suspicious Activity,Unknown,POSITIVE,suspicious activity,Low
+TXT_092,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_093,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_094,Suspicious Activity,Ramsay Street,NEGATIVE,suspicious activity,Low
+TXT_095,Suspicious Activity,Unknown,POSITIVE,suspicious activity,Medium
+TXT_096,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_097,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_098,Drug-Related Crime,Unknown,NEGATIVE,drug-related crime,Low
+TXT_099,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_100,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_101,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_102,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Medium
+TXT_103,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_104,Assault / Violence,Unknown,NEGATIVE,assault / violence,Medium
+TXT_105,Assault / Violence,Unknown,NEGATIVE,assault / violence,Medium
+TXT_106,Assault / Violence,Unknown,NEGATIVE,assault / violence,Medium
+TXT_107,Assault / Violence,Unknown,NEGATIVE,assault / violence,Medium
+TXT_108,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_109,Suspicious Activity,Delhi,NEGATIVE,suspicious activity,Low
+TXT_110,Shooting / Gun Violence,Unknown,NEGATIVE,shooting / gun violence,High
+TXT_111,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_112,Shooting / Gun Violence,Unknown,NEGATIVE,shooting / gun violence,High
+TXT_113,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_114,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low
+TXT_115,Suspicious Activity,Unknown,NEGATIVE,suspicious activity,Low

@@ -1,0 +1,285 @@
+Clip_ID,Timestamp,Frame_ID,Event_Detected,Persons_Count,Confidence_Score
+Browse1,00:01:15,FRM_0040,Person stationary (possible collapse),1 person(s),0.66
+Browse1,00:02:00,FRM_0050,Person stationary (possible collapse),1 person(s),0.45
+Browse1,00:02:09,FRM_0060,Person walking,2 person(s),0.79
+Browse1,00:02:19,FRM_0070,Person stationary (possible collapse),1 person(s),0.73
+Browse1,00:03:05,FRM_0080,Normal / no activity,0,0.67
+Browse1,00:03:15,FRM_0090,Normal / no activity,0,0.65
+Browse1,00:04:00,FRM_0100,Normal / no activity,0,0.52
+Browse1,00:04:10,FRM_0110,Normal / no activity,0,0.65
+Browse1,00:04:19,FRM_0120,Person stationary (possible collapse),1 person(s),0.61
+Browse1,00:05:05,FRM_0130,Person stationary (possible collapse),1 person(s),0.48
+Browse1,00:06:00,FRM_0150,Person stationary (possible collapse),1 person(s),0.4
+Browse1,00:08:00,FRM_0200,Person stationary (possible collapse),1 person(s),0.36
+Browse1,00:10:20,FRM_0270,Person stationary (possible collapse),1 person(s),0.33
+Browse1,00:16:09,FRM_0410,Person stationary (possible collapse),1 person(s),0.39
+Browse1,00:16:20,FRM_0420,Person stationary (possible collapse),1 person(s),0.34
+Browse1,00:18:00,FRM_0450,Person stationary (possible collapse),1 person(s),0.31
+Browse1,00:20:00,FRM_0500,Normal / no activity,0,0.52
+Browse1,00:21:15,FRM_0540,Person walking,2 person(s),0.51
+Browse1,00:22:00,FRM_0550,Person stationary (possible collapse),1 person(s),0.59
+Browse1,00:22:09,FRM_0560,Normal / no activity,0,0.63
+Browse1,00:22:20,FRM_0570,Person stationary (possible collapse),1 person(s),0.41
+Browse1,00:23:04,FRM_0580,Person stationary (possible collapse),1 person(s),0.77
+Browse1,00:24:00,FRM_0600,Normal / no activity,0,0.65
+Browse1,00:24:09,FRM_0610,Person stationary (possible collapse),1 person(s),0.78
+Browse1,00:25:04,FRM_0630,Person stationary (possible collapse),1 person(s),0.49
+Browse1,00:25:15,FRM_0640,Person stationary (possible collapse),1 person(s),0.43
+Browse1,00:26:00,FRM_0650,Person stationary (possible collapse),1 person(s),0.66
+Browse1,00:26:09,FRM_0660,Person stationary (possible collapse),1 person(s),0.51
+Browse1,00:27:04,FRM_0680,Person stationary (possible collapse),1 person(s),0.66
+Browse1,00:27:15,FRM_0690,Person stationary (possible collapse),1 person(s),0.59
+Browse1,00:28:00,FRM_0700,Person stationary (possible collapse),1 person(s),0.72
+Browse1,00:28:09,FRM_0710,Person stationary (possible collapse),1 person(s),0.75
+Browse1,00:28:20,FRM_0720,Person stationary (possible collapse),1 person(s),0.66
+Browse1,00:29:04,FRM_0730,Person stationary (possible collapse),1 person(s),0.55
+Browse1,00:29:15,FRM_0740,Person stationary (possible collapse),1 person(s),0.33
+Browse1,00:30:00,FRM_0750,Person stationary (possible collapse),1 person(s),0.42
+Browse1,00:30:09,FRM_0760,Person stationary (possible collapse),1 person(s),0.57
+Browse1,00:30:20,FRM_0770,Person stationary (possible collapse),1 person(s),0.37
+Browse1,00:34:19,FRM_0870,Person stationary (possible collapse),1 person(s),0.51
+Browse1,00:35:05,FRM_0880,Person stationary (possible collapse),1 person(s),0.66
+Browse1,00:36:09,FRM_0910,Person stationary (possible collapse),1 person(s),0.31
+Browse1,00:36:19,FRM_0920,Person stationary (possible collapse),1 person(s),0.71
+Browse1,00:37:05,FRM_0930,Person stationary (possible collapse),1 person(s),0.32
+Browse1,00:38:00,FRM_0950,Person stationary (possible collapse),1 person(s),0.47
+Browse1,00:38:09,FRM_0960,Person stationary (possible collapse),1 person(s),0.34
+Browse1,00:39:05,FRM_0980,Person stationary (possible collapse),1 person(s),0.54
+Browse1,00:39:15,FRM_0990,Person stationary (possible collapse),1 person(s),0.72
+Browse1,00:40:00,FRM_1000,Normal / no activity,0,0.57
+Browse1,00:40:09,FRM_1010,Person stationary (possible collapse),1 person(s),0.75
+Browse1,00:40:19,FRM_1020,Normal / no activity,0,0.71
+Browse1,00:41:05,FRM_1030,Person stationary (possible collapse),1 person(s),0.3
+Browse1,00:41:15,FRM_1040,Person stationary (possible collapse),1 person(s),0.65
+Fight_OneManDown,00:00:20,FRM_0020,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:01:04,FRM_0030,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:03:05,FRM_0080,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:03:15,FRM_0090,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:04:00,FRM_0100,Normal / no activity,0,0.62
+Fight_OneManDown,00:05:14,FRM_0140,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:06:10,FRM_0160,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:06:19,FRM_0170,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:07:14,FRM_0190,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:08:00,FRM_0200,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:08:10,FRM_0210,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:08:20,FRM_0220,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:09:04,FRM_0230,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:10:10,FRM_0260,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:10:20,FRM_0270,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:11:04,FRM_0280,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:11:14,FRM_0290,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:12:00,FRM_0300,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:12:10,FRM_0310,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:12:20,FRM_0320,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:13:04,FRM_0330,Normal / no activity,0,0.77
+Fight_OneManDown,00:14:00,FRM_0350,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:14:10,FRM_0360,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:14:20,FRM_0370,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:15:04,FRM_0380,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:15:14,FRM_0390,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:16:00,FRM_0400,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:16:09,FRM_0410,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:16:20,FRM_0420,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:17:04,FRM_0430,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:17:15,FRM_0440,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:18:00,FRM_0450,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:18:09,FRM_0460,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:18:20,FRM_0470,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:19:04,FRM_0480,Normal / no activity,0,0.57
+Fight_OneManDown,00:19:15,FRM_0490,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:20:00,FRM_0500,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:20:09,FRM_0510,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:21:04,FRM_0530,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:21:15,FRM_0540,Normal / no activity,0,0.64
+Fight_OneManDown,00:22:00,FRM_0550,Normal / no activity,0,0.8
+Fight_OneManDown,00:22:09,FRM_0560,Normal / no activity,0,0.8
+Fight_OneManDown,00:23:04,FRM_0580,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:23:15,FRM_0590,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:24:00,FRM_0600,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:24:09,FRM_0610,Possible altercation,2 person(s),0.89
+Fight_OneManDown,00:25:15,FRM_0640,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:26:20,FRM_0670,Possible altercation,2 person(s),0.87
+Fight_OneManDown,00:28:00,FRM_0700,Normal / no activity,0,0.59
+Fight_OneManDown,00:28:20,FRM_0720,Normal / no activity,0,0.52
+Fight_OneManDown,00:30:00,FRM_0750,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:00:00,FRM_0000,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:00:10,FRM_0010,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:00:20,FRM_0020,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:01:04,FRM_0030,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:09:04,FRM_0230,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:09:14,FRM_0240,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:10:10,FRM_0260,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:11:14,FRM_0290,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:12:00,FRM_0300,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:12:10,FRM_0310,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:12:20,FRM_0320,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:13:04,FRM_0330,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:13:14,FRM_0340,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:14:00,FRM_0350,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:14:10,FRM_0360,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:14:20,FRM_0370,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:15:04,FRM_0380,Possible altercation,2 person(s),0.87
+Fight_RunAway1,00:15:14,FRM_0390,Possible altercation,2 person(s),0.87
+Rest_FallOnFloor,00:00:00,FRM_0000,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:00:10,FRM_0010,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:00:20,FRM_0020,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:01:04,FRM_0030,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:01:15,FRM_0040,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:02:00,FRM_0050,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:02:09,FRM_0060,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:02:19,FRM_0070,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:03:05,FRM_0080,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:03:15,FRM_0090,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:04:00,FRM_0100,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:04:10,FRM_0110,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:04:19,FRM_0120,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:05:05,FRM_0130,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:05:14,FRM_0140,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:06:00,FRM_0150,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:06:10,FRM_0160,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:06:19,FRM_0170,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:07:05,FRM_0180,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:07:14,FRM_0190,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:08:00,FRM_0200,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:08:10,FRM_0210,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:08:20,FRM_0220,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:09:04,FRM_0230,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:09:14,FRM_0240,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:10:00,FRM_0250,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:10:10,FRM_0260,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:10:20,FRM_0270,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:11:04,FRM_0280,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:11:14,FRM_0290,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:12:00,FRM_0300,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:12:10,FRM_0310,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:12:20,FRM_0320,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:13:04,FRM_0330,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:13:14,FRM_0340,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:14:00,FRM_0350,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:14:10,FRM_0360,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:14:20,FRM_0370,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:15:04,FRM_0380,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:15:14,FRM_0390,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:16:00,FRM_0400,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:16:09,FRM_0410,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:16:20,FRM_0420,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:17:04,FRM_0430,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:17:15,FRM_0440,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:18:00,FRM_0450,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:18:09,FRM_0460,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:18:20,FRM_0470,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:19:04,FRM_0480,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:19:15,FRM_0490,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:20:00,FRM_0500,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:20:09,FRM_0510,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:20:20,FRM_0520,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:21:04,FRM_0530,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:21:15,FRM_0540,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:22:00,FRM_0550,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:22:09,FRM_0560,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:22:20,FRM_0570,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:23:04,FRM_0580,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:23:15,FRM_0590,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:24:00,FRM_0600,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:24:09,FRM_0610,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:24:20,FRM_0620,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:25:04,FRM_0630,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:25:15,FRM_0640,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:26:00,FRM_0650,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:26:09,FRM_0660,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:26:20,FRM_0670,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:27:04,FRM_0680,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:27:15,FRM_0690,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:28:00,FRM_0700,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:28:09,FRM_0710,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:28:20,FRM_0720,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:29:04,FRM_0730,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:29:15,FRM_0740,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:30:00,FRM_0750,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:30:09,FRM_0760,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:30:20,FRM_0770,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:31:04,FRM_0780,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:31:15,FRM_0790,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:32:00,FRM_0800,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:32:09,FRM_0810,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:32:19,FRM_0820,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:33:05,FRM_0830,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:33:15,FRM_0840,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:34:00,FRM_0850,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:34:09,FRM_0860,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:34:19,FRM_0870,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:35:05,FRM_0880,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:35:15,FRM_0890,Person collapsing,2 person(s),0.88
+Rest_FallOnFloor,00:36:00,FRM_0900,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:36:09,FRM_0910,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:36:19,FRM_0920,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:37:05,FRM_0930,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:37:15,FRM_0940,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:38:00,FRM_0950,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:38:09,FRM_0960,Person collapsing,2 person(s),0.88
+Rest_FallOnFloor,00:38:19,FRM_0970,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:39:05,FRM_0980,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:39:15,FRM_0990,Person collapsing,1 person(s),0.88
+Rest_FallOnFloor,00:40:00,FRM_1000,Person collapsing,1 person(s),0.88
+Walk1,00:00:00,FRM_0000,Person walking,1 person(s),0.82
+Walk1,00:00:10,FRM_0010,Person walking,1 person(s),0.82
+Walk1,00:00:20,FRM_0020,Person walking,1 person(s),0.82
+Walk1,00:01:04,FRM_0030,Person walking,1 person(s),0.82
+Walk1,00:01:15,FRM_0040,Person walking,1 person(s),0.82
+Walk1,00:02:00,FRM_0050,Person walking,1 person(s),0.82
+Walk1,00:02:09,FRM_0060,Person walking,1 person(s),0.82
+Walk1,00:02:19,FRM_0070,Person walking,1 person(s),0.88
+Walk1,00:03:05,FRM_0080,Person walking,1 person(s),0.89
+Walk1,00:03:15,FRM_0090,Person walking,1 person(s),0.82
+Walk1,00:04:00,FRM_0100,Person walking,1 person(s),0.82
+Walk1,00:04:10,FRM_0110,Person walking,1 person(s),0.84
+Walk1,00:04:19,FRM_0120,Person walking,1 person(s),0.82
+Walk1,00:05:05,FRM_0130,Person walking,1 person(s),0.86
+Walk1,00:05:14,FRM_0140,Person walking,1 person(s),0.82
+Walk1,00:06:00,FRM_0150,Person walking,1 person(s),0.82
+Walk1,00:06:10,FRM_0160,Person walking,1 person(s),0.82
+Walk1,00:06:19,FRM_0170,Person walking,1 person(s),0.82
+Walk1,00:07:05,FRM_0180,Person walking,1 person(s),0.82
+Walk1,00:07:14,FRM_0190,Person walking,1 person(s),0.82
+Walk1,00:08:00,FRM_0200,Person walking,1 person(s),0.82
+Walk1,00:08:10,FRM_0210,Person walking,1 person(s),0.82
+Walk1,00:08:20,FRM_0220,Person walking,1 person(s),0.82
+Walk1,00:09:04,FRM_0230,Person walking,1 person(s),0.82
+Walk1,00:09:14,FRM_0240,Person walking,1 person(s),0.82
+Walk1,00:10:00,FRM_0250,Person walking,1 person(s),0.82
+Walk1,00:10:10,FRM_0260,Person walking,1 person(s),0.82
+Walk1,00:10:20,FRM_0270,Person walking,1 person(s),0.82
+Walk1,00:11:04,FRM_0280,Person walking,1 person(s),0.82
+Walk1,00:11:14,FRM_0290,Person walking,1 person(s),0.82
+Walk1,00:12:00,FRM_0300,Person walking,1 person(s),0.82
+Walk1,00:12:10,FRM_0310,Person walking,1 person(s),0.82
+Walk1,00:12:20,FRM_0320,Person walking,1 person(s),0.82
+Walk1,00:13:04,FRM_0330,Person walking,1 person(s),0.82
+Walk1,00:13:14,FRM_0340,Person walking,1 person(s),0.85
+Walk1,00:14:00,FRM_0350,Person walking,1 person(s),0.82
+Walk1,00:14:10,FRM_0360,Person walking,1 person(s),0.82
+Walk1,00:14:20,FRM_0370,Person walking,1 person(s),0.82
+Walk1,00:15:04,FRM_0380,Person walking,1 person(s),0.82
+Walk1,00:15:14,FRM_0390,Person walking,1 person(s),0.82
+Walk1,00:16:00,FRM_0400,Person walking,1 person(s),0.82
+Walk1,00:16:09,FRM_0410,Person walking,1 person(s),0.82
+Walk1,00:16:20,FRM_0420,Person walking,1 person(s),0.82
+Walk1,00:17:04,FRM_0430,Person walking,1 person(s),0.82
+Walk1,00:17:15,FRM_0440,Person walking,1 person(s),0.82
+Walk1,00:18:00,FRM_0450,Person walking,1 person(s),0.82
+Walk1,00:18:09,FRM_0460,Person walking,1 person(s),0.82
+Walk1,00:18:20,FRM_0470,Person walking,1 person(s),0.82
+Walk1,00:19:04,FRM_0480,Person walking,1 person(s),0.82
+Walk1,00:19:15,FRM_0490,Person walking,1 person(s),0.82
+Walk1,00:20:00,FRM_0500,Person walking,1 person(s),0.82
+Walk1,00:20:09,FRM_0510,Person walking,1 person(s),0.82
+Walk1,00:20:20,FRM_0520,Person walking,1 person(s),0.82
+Walk1,00:21:04,FRM_0530,Person walking,1 person(s),0.82
+Walk1,00:21:15,FRM_0540,Person walking,1 person(s),0.82
+Walk1,00:22:00,FRM_0550,Person walking,1 person(s),0.82
+Walk1,00:22:09,FRM_0560,Person walking,1 person(s),0.82
+Walk1,00:22:20,FRM_0570,Person walking,1 person(s),0.82
+Walk1,00:23:04,FRM_0580,Person walking,1 person(s),0.82
+Walk1,00:23:15,FRM_0590,Person walking,1 person(s),0.82
+Walk1,00:24:00,FRM_0600,Person walking,1 person(s),0.82
+Walk1,00:24:09,FRM_0610,Person walking,1 person(s),0.82
