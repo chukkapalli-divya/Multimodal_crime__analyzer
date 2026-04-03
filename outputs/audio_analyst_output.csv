@@ -1,0 +1,704 @@
+Call_ID,Transcript,Extracted_Event,Location,Sentiment,Urgency_Score
+C001,one different,Unknown,Unknown,Calm,0.0
+C002,This is the Blocopia Bank in 1302 with the Transnational Speedway call of art. Okay.,Unknown,Unknown,Distressed,0.0
+C003,Yeah? Yeah. Yeah. Yeah. Yeah. Yeah.,Unknown,Unknown,Calm,0.0
+C004,"Yes, we're at the Nelson building and there's some men here with the bus to clean into the board meeting. Okay, you're at",Unknown,Unknown,Calm,0.0
+C005,"Listen, we're playing really bad at this. Okay, so get on our track, mate. People, you gotta track, mate, you b****.",Unknown,Unknown,Distressed,0.0
+C006,...,Unknown,Unknown,Calm,0.0
+C007,"I'm locking in the field and I'm looking for a champ. You're walking in the field. OK, and you should just stop. OK, I'm going to try to find you.",Unknown,Unknown,Concerned,0.1
+C008,Marg massacre deBen,Unknown,Unknown,Distressed,0.0
+C009,"They'll remember to come out, and the others figured they're using us.",Unknown,Unknown,Calm,0.0
+C010,"Okay, it's out for the study. Down there in the hall. We'll grab any photos. Okay.",Unknown,Unknown,Concerned,0.0
+C011,"Yes, that's two sub-pro here that's the 8 on the ground. Okay, he did get it.",Unknown,Unknown,Calm,0.0
+C012,"I mean, I'll wait behind the... ...and the fighters won't turn off.",Assault,Unknown,Calm,0.2
+C013,I'm here at the police station. I'm going to hold. Okay.,Unknown,Unknown,Calm,0.0
+C014,"Yes, ma'am, I need to go out and leave quickly. Down the church. Change.",Unknown,Unknown,Distressed,0.3
+C015,"Ma'am, my cat is a person. I had to go find it.",Unknown,Unknown,Concerned,0.0
+C016,"Hello? Hello? Hello? Hello? Oh, that one was...",Unknown,Unknown,Distressed,0.0
+C017,"I'm across 4709, 40th Avenue. And to your point, our Energy Clatching Pratt.",Unknown,40th Avenue,Calm,0.0
+C018,I need somebody escorted out of my store right away. He's causing problems.,Unknown,Unknown,Distressed,0.0
+C019,Hello! Hello! Hello 911!,Unknown,Unknown,Calm,0.15
+C020,"I got three people, the second people, thank you. They're taking kids? Yes sir.",Unknown,Unknown,Calm,0.0
+C021,"Hey, um, they just woke into my house. They had guns. They told us to just be on the floor. They're splousers like",Assault,Unknown,Distressed,0.3
+C022,"Um, I took some pills and um, the pills were really good mad, and um...",Medical,Unknown,Calm,0.0
+C023,"All right, well, the thing is, I was just flying with my buddy. You were sliding? I was flying.",Unknown,Unknown,Calm,0.0
+C024,"If somebody stays with Diane, I'm home alone and he's not here. My daughter is here. If somebody is here, quick.",Unknown,Unknown,Distressed,0.0
+C025,"I don't have an emergency tube for this stuff, it just left my house just now.",Unknown,Unknown,Distressed,0.6
+C026,My house is on fire. I don't know how to sleep in and I'll go to someone doom and I'll,Fire,Unknown,Distressed,0.7
+C027,"Hi, my name is Maria. I'm calling because my teacher, Mr. Haines,",Unknown,Unknown,Calm,0.0
+C028,"Yes, I have a gun and I don't it's from LA car loaded and something just got shot.",Assault,LA,Distressed,0.65
+C029,"I have a friend who's been drinking, I've been trying to help him since him too. He is now loading several weapons in a minute.",Assault,Unknown,Distressed,0.9
+C030,"I'm a police at where the heck am I? 291 water counts, three to immediately. We just had bullets.",Unknown,Unknown,Distressed,0.35
+C031,I'm not sure my friend is called and basically told me she was going to kill herself and I think she probably will.,Unknown,Unknown,Distressed,0.0
+C032,"with the address, 750 south to 50 west.",Unknown,Unknown,Calm,0.0
+C033,"emergency. Fire. Cutting wood. So, what's the location?",Fire,Unknown,Distressed,0.6
+C034,"It's not my, I mean, I haven't made it, I haven't possible, I haven't won overdose.",Medical,Unknown,Distressed,0.0
+C035,"Turn right here, then. Man...",Unknown,Unknown,Calm,0.0
+C036,"Yeah man, I'm a bit late today and we're in the road. We're going to see the gas.",Unknown,Unknown,Calm,0.0
+C037,and hoping for 29 and 2 with forces and I just ran a call just coming down the long lane. tester,Unknown,Unknown,Distressed,0.0
+C038,"Now, I won't let you know that I'm sleepy. But I heard my doorbell ringing out.",Unknown,Unknown,Calm,0.3
+C039,"Please come down here. What's your, what? I don't know that address. You're gonna have to be in the end of the answers.",Unknown,Unknown,Distressed,0.6
+C040,"What was your weekend of a playboy end down a month in park? A plane going down, months in park. We went down, it was...",Accident,Unknown,Distressed,0.0
+C041,"Oh, somebody is coming. Somebody help. What's going on?",Unknown,Unknown,Distressed,0.3
+C042,Somebody was trying to rob us. She got tight right now. We're holding her down. Okay. What address you at?,Unknown,Unknown,Calm,0.3
+C043,"Hello? Hello, I'm floating down the river in my car. Okay, what river are you on? I'm...",Accident,Unknown,Distressed,0.0
+C044,"Yes, I need an ambulance on hard stones. Okay, we're in the airport.",Medical,Unknown,Distressed,0.0
+C045,"with that little boy missing. Have you had any reports on one? No, I'm sure haven't.",Unknown,Unknown,Distressed,0.3
+C046,"We need police. Let's find a bike by 5.23. Let's find on them, man.",Unknown,Unknown,Distressed,0.0
+C047,man please help me I'm a county road 900 to 600 will build the TV towers and,Unknown,Unknown,Distressed,0.65
+C048,"I'm working to please my, I'm with you right here at America. I don't need largest, but",Unknown,America,Calm,0.3
+C049,I'm not a prospect but I need to have somebody go to my brother's house.,Unknown,Unknown,Distressed,0.0
+C050,"one one. Hey, my friend is having a feature. Where are you at?",Unknown,Unknown,Calm,0.0
+C051,"Hello? Yes. We've just been robbed. Where? 220,000.",Theft,Unknown,Distressed,0.0
+C052,"High Springs Community School, I called 911 a few minutes ago. We have, I heard several gunshots outside.",Assault,Unknown,Distressed,0.6
+C053,"Yeah, I need an ambulance to 12 mark in South Reno. Okay, let's go on. Others.",Medical,South Reno,Distressed,0.0
+C054,"We, they have just whom to call until you a The ledger",Unknown,Unknown,Distressed,0.0
+C055,4980. I'm talking to my daughter right now. 4980. I'm talking to my daughter. Listen to me. Who is it? Three from the middle.,Unknown,Unknown,Concerned,0.3
+C056,It's been a demolishing of a house and there is a woman inside and we need someone to come,Unknown,Unknown,Distressed,0.1
+C057,"to help you. Hi, this is Latisha from store Big Five on Green Valley. I have a person that is robbing me.",Theft,"Green, Green Valley",Distressed,0.3
+C058,"Yes, ma'am, my neighbor just ran over so someone tried to kill her in her house. I don't know what.",Unknown,Unknown,Distressed,0.4
+C059,911. My dad has been physically and emotionally assuming me heh perturbate,Unknown,Unknown,Distressed,0.0
+C060,"Yeah, I've got kind of like a knife. My father don't leave a little bit of air. He's 79 years old.",Assault,Unknown,Distressed,0.3
+C061,My husband is up in the attic and he's not responding.,Unknown,Unknown,Distressed,0.0
+C062,"I need to report a murder. Okay, where is that? 157 red-",Assault,Unknown,Distressed,0.4
+C063,"Yeah, it's very much right there in the back. I just think I just found out where you are.",Unknown,Unknown,Calm,0.0
+C064,I'm Joan Pearson and I just killed two people.,Fire,Unknown,Distressed,0.3
+C065,"Hey, I told you some rally. We've got a medical aburge that 4500",Medical,Unknown,Distressed,0.0
+C066,I just got back from work. From Target. I'm at 330.,Unknown,Unknown,Distressed,0.0
+C067,"Yes, we need an ambulance. We're at Westport Shopping Center right outside.",Medical,"Westport Shopping Center, Westport",Distressed,0.0
+C068,"No, I won't! I won't! I won't!",Unknown,Unknown,Distressed,0.15
+C069,"Yes, excuse me, so some helicopter is came down. The helicopter came down.",Accident,Unknown,Distressed,0.0
+C070,"Yes, helicopter just crashed. A helicopter just crashed? Yes, sir. I think we're about to get started.",Accident,Unknown,Distressed,0.2
+C071,"Good enough, Avenue. Someone is running around the neighborhood shooting a gun. Okay, they're in a car.",Assault,Avenue,Distressed,0.7
+C072,"Hey, who's it? Sheriff's office can I help you? Yeah, who's this, Gendy? Who's it?",Unknown,Unknown,Distressed,0.3
+C073,"of your emergency. A month has spoken to my house and my time is taking. Please come hurry. Okay, what's your address?",Unknown,Unknown,Distressed,0.9
+C074,"Do I need any of them to please after or won't? Okay, you need a police officer? Yeah",Unknown,Unknown,Distressed,0.3
+C075,"Oh my God, I'm on third Avenue to wherever I'll track somebody just tried to jump on the train and sever her legs.",Unknown,third Avenue,Distressed,0.0
+C076,"I hopped, there's a sitting on arm, yeah, like we're sitting. Sitting with, sitting there, I hopped, in the ass.",Unknown,Unknown,Calm,0.0
+C077,of the,Unknown,Unknown,Calm,0.0
+C078,I have just smothered my way.,Unknown,Unknown,Distressed,0.0
+C079,"We're on the boat right now. My friend says, got it by the shark. We have to make...",Unknown,Unknown,Distressed,0.3
+C080,"Yes, I got I just shot someone in my business on that 59 31",Assault,Unknown,Distressed,0.4
+C081,"We got some shootings over here in Silbeach. Okay, where? The salon in the Maritala.",Assault,"Silbeach, Maritala",Distressed,0.3
+C082,"I just killed someone, a hundred, about 40.",Assault,Unknown,Distressed,0.4
+C083,"Okay, yes, Emily, Katie, and the traffic search. She's in the city of La Clacetta and her accelerators suspect she can't stop the vehicle.",Accident,Unknown,Calm,0.0
+C084,"I got a report of shooting. Okay, where? Lehigh Hansen for Minette.",Assault,Unknown,Distressed,0.4
+C085,"We need the police here. Okay, what's the address of the emergency? The other.",Unknown,Unknown,Distressed,0.3
+C086,"Okay, we've got a fire down here at the Route 7 right here at Abington.",Fire,"Abington, Route 7",Distressed,0.3
+C087,I want to tell you what's happening first. I just killed my wife. There's no where you're at. What? Where you need to pull.,Assault,Unknown,Distressed,0.3
+C088,"What do we say? What happened? I'm sorry, I'm sorry. I'm sorry.",Unknown,Unknown,Distressed,0.0
+C089,We have been shot at a house in South Mim2. We have three children and we leave somebody here now.,Assault,South Mim2,Distressed,0.6
+C090,Sorry I Did come to,Unknown,Unknown,Distressed,0.0
+C091,"I'm behind the Noseville for Vata, license plate, CEG 8148, and we've been all over the road.",Unknown,Unknown,Distressed,0.05
+C092,4202 Mallor circle. Two men have just crossed my fence to try.,Unknown,Unknown,Distressed,0.0
+C093,What city are you in?,Unknown,Unknown,Distressed,0.0
+C094,I am going eastbound on I-10 between LA-30 and LA-44.,Unknown,Unknown,Distressed,0.15
+C095,"Yes, we need officer right now. There's a man shooting at the lady. We need a cop. We're at. We're on it.",Assault,Unknown,Distressed,0.6
+C096,"for constant but continuously and at the beginning, that is,",Unknown,Unknown,Calm,0.0
+C097,your meditation. I am a little boy having a new name. Let me get a gun nest. Don't hang up sir.,Assault,Unknown,Distressed,0.3
+C098,"Okay, I call before and I already pay in back. All right, so aren't we going to...",Unknown,Unknown,Distressed,0.0
+C099,"Yeah, I'm putting myself in for my husband, the number.",Unknown,Unknown,Calm,0.0
+C100,"I'm someone's breaking into my house. Wish I'd grab. Sophie, six, seven, eight, four, five, what?",Theft,Unknown,Distressed,0.1
+C101,"I know. I'm sorry, Gordon. I know when she shot me with... I can go.",Assault,Unknown,Distressed,0.6
+C102,"Yes, sir. I've got this middle school. We have a student with a dunking up help us out. Please call B.I.C. police also",Unknown,B.I.C.,Calm,0.65
+C103,I'm not sure if I'm going to get by train. Why was you hit by a train? My friend. Where are you?,Accident,Unknown,Distressed,0.0
+C104,an ambulance to the south side Walmart immediately. What's going on? I have a man shot.,Assault,Unknown,Distressed,0.6
+C105,and you child. You shot some.,Assault,Unknown,Distressed,0.3
+C106,"I'm hoping. I'll leave in the lab, I think someone is trying to come in.",Unknown,Unknown,Distressed,0.1
+C107,"I need a nice grey billed place, I don't care who's 15612.",Accident,Unknown,Distressed,0.0
+C108,"I don't know but you have 4,000",Unknown,Unknown,Calm,0.3
+C109,We have a I think we have a dead person in here. Okay. I don't know what happened.,Unknown,Unknown,Distressed,0.6
+C110,"I'm almost in Wonder Rock, the US bank, and I just need to be sure to tell myself then.",Unknown,"Wonder Rock, US",Calm,0.05
+C111,What are you? The emergency hotline. Who are you?,Unknown,Unknown,Distressed,0.3
+C112,It's a business. I believe it's been robbed. What's the name of the business? Flying biscuit.,Theft,Unknown,Distressed,0.0
+C113,"and what is your emergency? Hi, my name is Mickey. I'm the manager at the McDonald's. I'm very intrigued. Yeah. There's a woman who is so cute.",Unknown,Unknown,Calm,0.3
+C114,I think we're on 75. I 75? Yes. Okay.,Unknown,Unknown,Calm,0.0
+C115,Something is going on. Do you know the south number?,Unknown,Unknown,Distressed,0.3
+C116,"I keep blow-drow. We have blitz. Okay, I'm sorry you have blitz.",Unknown,Unknown,Distressed,0.0
+C117,Are you out of the house yet? No. Or I get out of the house. We can't.,Unknown,Unknown,Distressed,0.0
+C118,emergency. My focus is on that please come. We're going to say the address is not here for me. What city are you in?,Unknown,Unknown,Distressed,0.6
+C119,"Oh, darling, he's ill. Who is this? I told my father right to help.",Unknown,Unknown,Distressed,0.3
+C120,everyone,Unknown,Unknown,Calm,0.0
+C121,"Um, we have somebody. Sorry.",Unknown,Unknown,Distressed,0.0
+C122,I think somebody is breaking in the house. We just came from school and put our pajamas on. We really scared.,Accident,Unknown,Distressed,0.3
+C123,"Um, I always offers, kind of, my mom's on a floor.",Unknown,Unknown,Calm,0.0
+C124,emergency. I just shot my wife. Can you tell me the address that you're off?,Assault,Unknown,Distressed,0.6
+C125,I think we need a place at the Walmart Super Center in Miss Kogi. That's what we got.,Unknown,Unknown,Distressed,0.0
+C126,"Yeah, I need the Polo here. 963, he's 363. There's somebody in the house with a grimole.",Unknown,Unknown,Distressed,0.0
+C127,corner of 119 and counting road 1 we just saw plane go down to the,Accident,Unknown,Distressed,0.0
+C128,"A plane just crashed. Okay, you said three miles south of Union reservoir.",Accident,Unknown,Distressed,0.2
+C129,"Yes, it is a police station. Yes, it is. May I help you? Yes, okay. I put this as ridiculous.",Unknown,Unknown,Distressed,0.3
+C130,I know there's an ambulance on the TV for this little boy. Okay. And there's a young man.,Medical,Unknown,Concerned,0.35
+C131,"Hi, we just witnessed the vehicle accident on the So you",Accident,Unknown,Distressed,0.2
+C132,There's a horrible accident on 7 mile fare in highway 94.,Accident,Unknown,Distressed,0.2
+C133,"Hi, there was a accident. We just witnessed three cars just been full motion.",Accident,Unknown,Distressed,0.2
+C134,I was told to call my dad to tell whatever I had.,Unknown,Unknown,Distressed,0.0
+C135,"He only found his dad's old proofs best, but I don't know.",Unknown,Unknown,Distressed,0.3
+C136,Hello.,Unknown,Unknown,Calm,0.0
+C137,"There has been a murder suicide. There is no survivors. Please send help. Okay, what's going on? Who? What's going on?",Assault,Unknown,Distressed,0.9
+C138,यह पलीज वारा हैं वार वार वार वार वार वार वार,Unknown,Unknown,Distressed,0.0
+C139,"Yeah, I'd like to report it to you, please. Okay. Be the thrills.",Unknown,Unknown,Calm,0.4
+C140,"I just shot my wife. Okay, and what's your address?",Assault,Unknown,Distressed,0.3
+C141,Please come out of the cow! Please! It's coming to God! Please come out of the way!,Unknown,Unknown,Calm,0.5
+C142,A woman came under her house screaming that her son had shot for her husband.,Assault,Unknown,Distressed,0.3
+C143,"Hi, I hear a girlfriend just pulled up and there's a guy pull up and truck behind him and we think he has a gun.",Assault,Unknown,Distressed,0.3
+C144,"Hi, Edons, Unshots. We're all on the floor. You're doing what? They think Unshots.",Assault,Unknown,Distressed,0.3
+C145,I'm not talking about this. I'm talking about this. I'm talking about this.,Unknown,Unknown,Concerned,0.0
+C146,"Someone with murder, I think. Where are you? No, please, you're gonna let me... I need you.",Assault,Unknown,Distressed,0.7
+C147,It was guys just in my mom and my niece and my sister all the while they've been treated.,Unknown,Unknown,Distressed,0.0
+C148,"I have a gun shop victim here. Okay, I'm going to hurry.",Assault,Unknown,Distressed,0.6
+C149,I just come in to pick it up my trash and my major is in the house. I've got no...,Unknown,Unknown,Distressed,0.0
+C150,"Доляuria, б corporальный",Unknown,Доляuria,Distressed,0.0
+C151,You need to see this ran over and they said that the boy just shot his mom. We've had to pull.,Assault,Unknown,Distressed,0.3
+C152,I requested a state police to come out. I would like state police to...,Unknown,Unknown,Distressed,0.0
+C153,I had a guy kicking in my door or trying to kick in my front door. I don't know what his problem was.,Unknown,Unknown,Distressed,0.3
+C154,in 59 to capture races. There's been a shooting. Somebody came in and shot a bunch of people. I'm hiding in the bed after a mall.,Assault,Unknown,Distressed,0.6
+C155,exit of this game coming from the beach. There's a guy that's completely naked who has closed all of the...,Disturbance,Unknown,Distressed,0.0
+C156,There's a naked man or the men's cars way at the end of the car way coming towards this,Accident,Unknown,Distressed,0.0
+C157,So hi I'm Erie C. I'm Erie C. I'm my great-for-delie.,Unknown,Unknown,Calm,0.1
+C158,I have a boy that was underwater and he's not breathing. How old is the boy? Four.,Medical,Unknown,Distressed,0.3
+C159,Are you inside the house? Yes. Are you alone inside the house? Yes.,Unknown,Unknown,Calm,0.0
+C160,someone on the back porch of black man. And what is your address? 3613 lady woodland.,Unknown,Unknown,Distressed,0.1
+C161,"I'm gonna take a look at how I put it. How the power of this kit. Well, we'll put it up over there now.",Unknown,Unknown,Calm,0.3
+C162,I'm going to come and stop. Where are you at? I'm at the end.,Unknown,Unknown,Distressed,0.0
+C163,What kind of appearance is that? Your wet? What kind of appearance is that? Your panty is a shot.,Assault,Unknown,Distressed,0.3
+C164,We had several police tire earlier and did a report.,Unknown,Unknown,Distressed,0.1
+C165,"Oh, right, brother. It's having a great time in the hotel. Okay.",Unknown,Unknown,Calm,0.0
+C166,I just strangled my girlfriend. You just strangled your girlfriend? Yep. What's your name?,Assault,Unknown,Distressed,0.0
+C167,"Okay, we've had an airboat accident. I'm not sure if they're all injuries. I don't know to what extent.",Accident,Unknown,Distressed,0.5
+C168,"Hey, I see a mead down",Unknown,Unknown,Distressed,0.0
+C169,a subtle phenomena. Did I hear any variable?,Unknown,Unknown,Calm,0.0
+C170,I'm going to go now. I'll be right there. Do you have a hand for them? Yes. Do you have a hand for them?,Unknown,Unknown,Calm,0.3
+C171,"Gute Menschen aus dem Grund routieren,ome researchers von dem winter ... nichts",Unknown,Unknown,Distressed,0.0
+C172,I was just going to six temple and there was a I was in the parking lot and there was a bunch of,Unknown,Unknown,Distressed,0.0
+C173,"Yes, somebody just send my baby please get here. They just did what?",Unknown,Unknown,Distressed,0.3
+C174,"Oh, there's a fucking dead man in the car. Roger for me, young.",Accident,Unknown,Distressed,0.3
+C175,Can I help you? Somebody who's broken our daughter's trying to break into my bedroom. What's your address?,Unknown,Unknown,Distressed,0.5
+C176,"Please, before I get through, I have my shirt in here. The shirt is where, where on issue the cat, where at?",Unknown,Unknown,Distressed,0.3
+C177,"Please fire. 9-1-1. My hands will be having a harder time. Brooke, we're going to start CPR on the hem. Okay?",Fire,Unknown,Distressed,0.65
+C178,you. I'll do you off with the shots. With what agency sir?,Assault,Unknown,Distressed,0.3
+C179,I just killed my mom and my sister. What? I just killed my mom and my sister.,Assault,Unknown,Distressed,0.3
+C180,How come because I'm at a port in my side and this is it? What park are you in?,Unknown,Unknown,Distressed,0.0
+C181,"We have two boards, two boards. Do you have lights to service? We have lights to service. Are you in the water now?",Unknown,Unknown,Distressed,0.3
+C182,"It's been with gardens and sin as possible to the ladies. It was like, I've never had a hard problem. What is a dad's life?",Unknown,Unknown,Calm,0.0
+C183,I just committed a father's worst sin. Okay. I just shot my daughter and...,Assault,Unknown,Distressed,0.3
+C184,"Yes, I have a three year old who's not breathing. To address men. 1 6 0 9 7 Northwater.",Medical,Unknown,Distressed,0.3
+C185,I have an emergency. I have three dead people up on top. It's called Hanley flat up Wolfhand. My name is,Unknown,Wolfhand,Distressed,0.6
+C186,"Who's finished shooting? Okay, who was shot?",Assault,Unknown,Distressed,0.6
+C187,"N5631, Sahel Road.",Unknown,Unknown,Concerned,0.05
+C188,"Um, I don't know a guy stopped me. I think his wife is strong with his wife. He's",Unknown,Unknown,Calm,0.3
+C189,We need help my husband to shop my son,Unknown,Unknown,Distressed,0.3
+C190,"Place, this is Dale Ford, Passdresser, 217th. I'm called a bugger or in my shop. 217 North 7.",Unknown,Unknown,Distressed,0.0
+C191,"Come on in your side, busing up vehicle man. I don't know where you're at, where are you?",Accident,Unknown,Distressed,0.3
+C192,"have you got any reports of a building exposure? Yes we have, it's going to be Jerry Maschick in North La...",Unknown,North La,Distressed,0.1
+C193,"I looked at the money, get the order, buy themagda, think I have to get tickets, go! Jill Gouder? Oh, I didn't kill. Or did'. Better good. Or did a littlefather get to get there? Oh my god.",Unknown,Unknown,Concerned,0.05
+C194,We just have the explosion at the front of our door. Yes sir. The chemical delivery is coming.,Fire,Unknown,Concerned,0.0
+C195,"Gary Masek-Grab, all the house blew up. Now's the windshield out of my pick-up.",Unknown,Unknown,Distressed,0.3
+C196,"Yes, where West Texas, the firstравlaveryink, was born up and our guessồng",Unknown,West Texas,Distressed,0.0
+C197,"Yes, the 1000 exploded. Okay, what's the end like? 1879.",Fire,Unknown,Distressed,0.0
+C198,"Oh, dude, the guy with the Josh suit is a new world ball right now. He's a sucker with the ball right now. Okay, can I have a...",Unknown,Unknown,Calm,0.3
+C199,"I'm a name of Hans Walters. I work for a lot of Vegas, much upon a police department.",Unknown,Unknown,Calm,0.0
+C200,Can you please send rescue to I think I'm having,Unknown,Unknown,Calm,0.3
+C201,I'm out of South High School. There's everything underground. More syrup. Last and all.,Unknown,Unknown,Distressed,0.0
+C202,You need police fire ambulance.,Fire,Unknown,Distressed,0.3
+C203,"We have a shooter in the store. Okay, do you know if anybody's injured?",Accident,Unknown,Distressed,0.5
+C204,Okay. Okay. I need to get your stuff to a safe location.,Unknown,Unknown,Distressed,0.0
+C205,emergency. We're out of the town center.,Unknown,Unknown,Distressed,0.3
+C206,"911. Clackerman's town center, Frederick's of Hollywood, fired in the mouth. Okay, there will be other words.",Fire,Hollywood,Distressed,0.3
+C207,"Hi, I'm a suicidal teenager at House 503 Nighthawk Drive. I need an ambulance immediately.",Medical,House,Distressed,0.3
+C208,"500 feet, roll the cop, roll an ambulance, shots fired, a baby's been hit in the head.",Fire,Unknown,Distressed,0.6
+C209,Can you get an ambulance in a cop? Get the over to 59 Alderwood drives. 59 what? Alderwood.,Medical,Unknown,Distressed,0.0
+C210,"Hi, the gentleman was just talking to me about someone who's broken.",Unknown,Unknown,Distressed,0.3
+C211,"But, hurry up, this is the bivy. It happened. This is the bivy. He can't snuck it on my door earlier.",Unknown,Unknown,Calm,0.3
+C212,But we went to the quails unlimited dinner last night and the cylinder might hear it looks like you hit it head in the...,Accident,Unknown,Distressed,0.0
+C213,Get empty over here. Come under in shot 1220. Call the grab avenue 1220,Assault,Unknown,Distressed,0.3
+C214,like a Moby Cal,Unknown,Unknown,Calm,0.0
+C215,"I'm at 69, 69 East Main. My son just shot his wife.",Assault,Unknown,Distressed,0.3
+C216,"I don't know. Yes sir, I do push car right now. 504J3. 5041.",Accident,Unknown,Concerned,0.35
+C217,"Yes, ma'am. Yeah, this is your last seat. Shot fired, same thing.",Fire,Unknown,Distressed,0.6
+C218,"Yeah, I just attend to kill my mother if I step out there. Okay, where are you at sir?",Unknown,Unknown,Distressed,0.0
+C219,"Yes, we're at a pool and I have a little girl that keeps down and she's not breathing. Trying to see if you are like...",Medical,Unknown,Distressed,0.3
+C220,"My neighbor's house is burning down at 312 Washington Avenue. We're on our ways, anybody inside?",Fire,"Washington Avenue, Avenue",Distressed,0.0
+C221,"I can see why new survival olureveryone is present or assemble! CL приготов, free burgers!",Unknown,Unknown,Distressed,0.15
+C222,I'm reporting an airplane crash at a SSO. An airplane crash at SSO?,Accident,Unknown,Distressed,0.4
+C223,"high, we just, where's the emphasis to airport in our airplane just crashed upon landing.",Accident,Unknown,Distressed,0.2
+C224,"I'm in the hammer now, I'm going to wait. To wait a little bit. Wait a little bit.",Unknown,Unknown,Distressed,0.3
+C225,"Why did I move the fire alarm office? Okay, this is county. It's a matter of...",Fire,Unknown,Distressed,0.3
+C226,"Yeah, this is emergency. I'm a cab driver this guy. He say...",Unknown,Unknown,Distressed,0.3
+C227,I'm going to see. Dance away! What happened to me? I don't know. I'm in the way. It's please.,Unknown,Unknown,Calm,0.65
+C228,Help me help me quick. I'm the only one who can be on the court. I know.,Unknown,Unknown,Distressed,0.6
+C229,and I wanna walk around. N ότι amplifies PhD,Unknown,Unknown,Calm,0.0
+C230,"And there's a fire on the cemetery, a bridge into one of the gates. And on the cemetery.",Fire,Unknown,Distressed,0.3
+C231,"Yes ma'am, I'm on second avenue in the school and the gentleman said tell them to hold down the police office are coming to here",Unknown,Unknown,Calm,0.0
+C232,He's in the house.,Unknown,Unknown,Calm,0.0
+C233,"Yes, our ammunition is help. I'm trapped in the back side of this force bar.",Unknown,Unknown,Distressed,0.6
+C234,I'm watching Mike Donnell's up here. And I order like seven birds.,Unknown,Unknown,Calm,0.0
+C235,"Oh my God, so many students at the Sheriff Department. At the Sheriff Department? Yes, so building place.",Unknown,Unknown,Calm,0.0
+C236,"Yes, I didn't tacked by a man in the woods while I was hunting. Please send the police to my location.",Unknown,Unknown,Concerned,0.3
+C237,"On the boat, it ends up Radio lighting and electric supply building Radio lighting and the",Unknown,Unknown,Distressed,0.0
+C238,The Linux Espio Turkey is bad. I'm sorry. I'm stupid. Are you sh,Unknown,Turkey,Distressed,0.0
+C239,"Now, here seems to be a bad fight next story.",Assault,Unknown,Distressed,0.5
+C240,"I don't think so now and we all been followed. You need to hurry, we can only...",Unknown,Unknown,Distressed,0.6
+C241,"I think some people are shooting. Okay, and SSF. Okay.",Assault,Unknown,Distressed,0.35
+C242,I'm about to kill people. You're about to kill people? Yes. I had a deadly weapon in my...,Assault,Unknown,Distressed,0.6
+C243,I'm sorry. Hello? Hello?,Unknown,Unknown,Distressed,0.0
+C244,"The station is on sunset, Larby, please come here. Okay, calm down a little bit, okay, what's he at?",Unknown,Unknown,Distressed,0.3
+C245,"Um, my friend, who's my birthday gift, who I got to know.",Unknown,Unknown,Calm,0.3
+C246,"I'm working for the head. I'm calling my son. I'm just getting asked. What's your address, ma'am? What's your address? What's your address?",Unknown,Unknown,Distressed,0.0
+C247,"Oh, I'm just very upset. And I'm...",Unknown,Unknown,Distressed,0.0
+C248,But guess what the fox has broke out and the lady come running out of the man from man is in there Tuding everyone,Unknown,Unknown,Distressed,0.2
+C249,"Okay, I'm at Wild Cash even. We've had a lot of our keepers.",Unknown,Wild,Calm,0.0
+C250,This is my goodest five or five each financial. I got the people in my yard and their dogs are my...,Unknown,Unknown,Calm,0.0
+C251,"I've been called over to my father in law to have, because he got off the phone with my mother in law and he's been flexing up and stuff.",Unknown,Unknown,Distressed,0.0
+C252,There was this time I go and what a road is this? Red arrow going down.,Unknown,Unknown,Distressed,0.0
+C253,"My girlfriend is right and I think she's dead. I need someone here now. Okay, she breathing.",Unknown,Unknown,Distressed,0.7
+C254,I'm sorry. Any hoax school. I think there's somebody shooting in here. Sandy hoax school. Okay. What makes you a,Assault,Unknown,Distressed,0.3
+C255,"emergency. Say you look at elementary school, 12 dickies and drugs. Okay, I've got that. What's going on down there?",Unknown,Unknown,Distressed,0.3
+C256,I can still draw. It sounds like they're contacting the hallway. I'm a teacher in the school. Okay. Where are you in the school?,Unknown,Unknown,Calm,0.0
+C257,"Yes, my husband's on the front there's a car here within a soul rifle shooting it's police and aiming at our house",Accident,Unknown,Distressed,0.3
+C258,"emergency. Oh, please hurry. This is one nine. Wind him court. We",Unknown,Unknown,Distressed,0.9
+C259,"by the door. If anybody comes down here I'm shooting. Okay, don't, we don't want to shoot anyone else, okay? So, what's all this?",Assault,Unknown,Distressed,0.3
+C260,there. We got a we got a student athlete who was on the court moaning.,Unknown,Unknown,Distressed,0.0
+C261,"I have a nine week old infant and he just stopped breathing. Damn, I'm a white-up man. Okay.",Accident,Unknown,Distressed,0.0
+C262,"We believe that there is a schooner. We have heard at least two shots. Okay, what is the next?",Assault,Unknown,Distressed,0.3
+C263,"And the June of L, $PC-8, the 2018 12 second stop. 1,500 eastside",Unknown,Unknown,Distressed,0.1
+C264,gunshot went to the chest. Number B.,Assault,Unknown,Distressed,0.65
+C265,Can you hold for just a second? I just saw somebody running to the Comfort Bank on Thomas in 2020.,Unknown,Thomas,Distressed,0.0
+C266,"OK, back on, one, two from the",Unknown,Unknown,Calm,0.05
+C267,"the railroad tracks, we've got to train that to D rail the National Fire.",Fire,Unknown,Distressed,0.3
+C268,There is a women in策enda from the southeast of the province in Pachimuddah.,Unknown,Pachimuddah,Distressed,0.0
+C269,Hurricane,Unknown,Unknown,Distressed,0.0
+C270,"I just had a lottery to steal a beer at all. All right, hold on, first share our stuff. Let's go. All right, hold on.",Unknown,Unknown,Calm,0.0
+C271,"So there's been a gunshot at the cop theater, movie theater, cop, and what's the chapel gunshot, to the chat.",Assault,Unknown,Distressed,0.6
+C272,I'm gonna come in with your name. What is your name?,Unknown,Unknown,Distressed,0.0
+C273,"the crazy. He's been stabbed really bad. Okay, let's be breathing ma'am.",Assault,Unknown,Distressed,0.3
+C274,"military forces, resilience, support and improvement. I am an And funciona fighter. Bank самое que reserved.",Assault,Unknown,Calm,0.2
+C275,"My daughter is choking on a bouncy ball. Okay, and you're at 25, 25 North 10th Street? Yes, is she?",Medical,Unknown,Distressed,0.3
+C276,"Well, am I 41 going south and I'm going to do a cross street right now?",Unknown,Unknown,Calm,0.3
+C277,take geben virgin initiated on o lightning,Unknown,Unknown,Calm,0.0
+C278,"How did you lose your fire? Where's the fire at? Fire! No, it's not!",Fire,Unknown,Distressed,0.4
+C279,payback police chief uh... with having a vehicle pulled across the street in the residence come on jottis,Accident,Unknown,Distressed,0.0
+C280,I've been taken out of my house at gunpoint. I'm going to head to the police station.,Assault,Unknown,Distressed,0.3
+C281,And my neighbor just knocked on my door. And I heard this mission. We went down to where the mail box is.,Unknown,Unknown,Distressed,0.0
+C282,Дعبقت היא رائعة جامع شجج,Unknown,Unknown,Distressed,0.05
+C283,on. Land is on the ground. I didn't go and check you. A male is on the ground? Yes.,Unknown,Unknown,Calm,0.0
+C284,"Yes, I live at the 9301 South Secretary of State, Harvard A. I got a gentle",Unknown,Unknown,Calm,0.05
+C285,"This is Caliola, the transfer at your Beth Western. I'm a 1-14, someone has been shot in the neck. They're going to need medical assistance.",Assault,Unknown,Distressed,0.4
+C286,We're missing a child. Three years old. You're missing a three year old.,Unknown,Unknown,Distressed,0.2
+C287,"What exactly what happened? My wife's pregnant and she says she made the hospital, she says she can't read them.",Unknown,Unknown,Distressed,0.0
+C288,"I am on half road, I am in water, and it's taken me away. Hey man, we're on the...",Unknown,Unknown,Calm,0.0
+C289,"Okay. One thirty four, three you shooting within the Delinth at 720p.",Assault,Unknown,Distressed,0.3
+C290,"My walk up up up a little. Okay, let's go up the bottle with a carrot there. You've got movie. There.",Accident,Unknown,Calm,0.0
+C291,"I got a collar on the line, she's got to be quiet, somebody just broken door house, 436, Lowell Street.",Unknown,Lowell Street,Distressed,0.2
+C292,"I'm having one of my moments in shot. Okay, so it's medical. Is it medical, son?",Assault,Unknown,Distressed,0.3
+C293,I've got a woman in my bank pointing a rifle at all of us and all of our customers. I need police now.,Unknown,Unknown,Distressed,0.3
+C294,"We walked contact with two carriers, with the carrier and somebody else.",Accident,Unknown,Distressed,0.0
+C295,"Where's your emergency? I need an ambulance to let on one colony. Okay, what's going on? What's going on? Okay.",Medical,Unknown,Distressed,0.3
+C296,We need an ambulance. We're going on. My mom keeps...,Medical,Unknown,Distressed,0.0
+C297,"Okay, what the problem on wrong and office? Something's what? You know, something wrong and office, I believe. What do you mean something?",Unknown,Unknown,Distressed,0.3
+C298,Are little boys not breathing? Is he breathing now? No he's not.,Medical,Unknown,Distressed,0.6
+C299,"Yes, I saw somebody up on 10th Street on the airport. Okay, you did.",Unknown,10th Street,Calm,0.0
+C300,"Um, my mother fed down. Okay, your mama fell down? Yeah. Okay, where are you at?",Unknown,Unknown,Distressed,0.0
+C301,"My kids have been in this for three o'clock today, my seven-year-old and my three-year-old.",Unknown,Unknown,Calm,0.0
+C302,I have been missing since 7 o'clock this morning and,Unknown,Unknown,Distressed,0.2
+C303,I have someone here that I need to be arrested in my home.,Unknown,Unknown,Distressed,0.1
+C304,Hello. Hello. Hello. Hello. Hello. Hello.,Unknown,Unknown,Calm,0.0
+C305,"Hi, I'm speaking to my boyfriend and he was entering his home and I heard loud screaming and now this dead",Unknown,Unknown,Distressed,0.6
+C306,Miss May or Limga Health an fire on Southeast 27th Street.,Fire,"Southeast, Southeast 27th Street",Distressed,0.3
+C307,"I can't bite my wife, so I'll feed her the bathtub and I think she gets. I'll let you, I'll see how it goes.",Unknown,Unknown,Calm,0.0
+C308,We have a bare molley. I am out on the trail. I just wanted to take this time.,Unknown,Unknown,Calm,0.0
+C309,"No, I'm gonna shake my eyes. I need a policeman. And I need a ambulance in my house. Make my way out, man. No, wait.",Medical,Unknown,Distressed,0.0
+C310,This is an emergency run hike. I'm going to make my walk or hike in my kitchen in the smokey.,Fire,Unknown,Distressed,0.3
+C311,m wide.,Unknown,Unknown,Calm,0.0
+C312,2313 what? 2313 cabrits. 2313 cabrits. Yes.,Unknown,Unknown,Calm,0.0
+C313,I'm sorry I've got to admit.,Unknown,Unknown,Distressed,0.0
+C314,"Yes, well I walked in my car and you're like in your car out of your car. Yes, in my car.",Accident,Unknown,Calm,0.0
+C315,"You look like you need it, come slow. You just need a towel to come over here.",Unknown,Unknown,Distressed,0.0
+C316,"A child who has been left on my doorstep. Okay, what's your address?",Unknown,Unknown,Distressed,0.0
+C317,"I get it, the",Unknown,Unknown,Calm,0.0
+C318,"Hang on, this room has black smoke. So it's connogeable of art in the 180.",Fire,Unknown,Calm,0.0
+C319,Exactly what happened. There was two trains just collided outside of our metro link.,Unknown,Unknown,Distressed,0.0
+C320,"Yes, ma'am. My name is Special Agent Richard A Smith. That's number zero time.",Unknown,Unknown,Distressed,0.0
+C321,"We'll be in the office, I'll guide you by 9. Please try. We're all bleeding.",Medical,Unknown,Distressed,0.6
+C322,"Hello, it's the state police and the gentleman's girlfriend is having a baby right now. Okay, sir.",Unknown,Unknown,Calm,0.3
+C323,I don't know if I'll make it. I'm trying to...,Unknown,Unknown,Distressed,0.3
+C324,"My boyfriend is outside, he has been stabbed. Okay. And he's...",Assault,Unknown,Distressed,0.3
+C325,I'm the guy that's in pretty big trouble right now. You're in pretty big trouble? What's your name?,Unknown,Unknown,Distressed,0.3
+C326,"Yes, I think everybody's clicking into my house. Please. Okay, stay on the phone. I mean, why did you think someone's trying to break a...",Unknown,Unknown,Distressed,0.4
+C327,I'm like dever monde i f parve wear i kinda Volkswagen veyrüote goooootir holy...,Unknown,Unknown,Distressed,0.0
+C328,I think my son's been killed. We're at. We're in the Evergreen...,Assault,Unknown,Distressed,0.3
+C329,The update has already been released. I think he's going to try to kill himself. I need an A.,Unknown,Unknown,Distressed,0.05
+C330,"Well, as said, emergency, you know why on one lane, on one side at the damn drawbridge, on 95...",Unknown,Unknown,Distressed,0.6
+C331,Come on. What? More now! There's nothing to talk about!,Unknown,Unknown,Distressed,0.4
+C332,"What are you into doing? The FAA agents that look like you're giving a heart attack or stroke or something, just",Assault,Unknown,Distressed,0.05
+C333,"Well, I just got a phone call saying that my friend, she was in the basement apartment of that house and apparently the",Unknown,Unknown,Distressed,0.0
+C334,There's a fire right here off the Broadway. Broadway and poetry.,Fire,Broadway,Concerned,0.3
+C335,We just came into my sister's house and she's on the floor. Try the girl to mesh.,Unknown,Unknown,Distressed,0.0
+C336,My girlfriend left last night. We were at the Stevens-Ball and St. Nicholas.,Unknown,"the Stevens-Ball, St. Nicholas",Distressed,0.0
+C337,"My cat, a cat, is a seven-month-old child. And I...",Unknown,Unknown,Calm,0.05
+C338,and my friend was drinking and she woke me up and she's sick and now she's not responding.,Unknown,Unknown,Distressed,0.3
+C339,and it's a fire at somebody else called the stadium. You're on the ground. The avenue is at their avenue.,Fire,Unknown,Distressed,0.3
+C340,28 grand we need somebody to move your nads a five years out of house 20 grand and your partner 3 3,Unknown,Unknown,Distressed,0.0
+C341,"Uh the same, somebody saw a sw은 Backar aux sinds flew above",Unknown,Unknown,Distressed,0.0
+C342,میری دریاد کارتے ہو دریہ میری ریور کی کار کار میری ریورتے ہو دریگا بھائی آجا,Unknown,بھائی,Concerned,0.0
+C343,Somebody got shot at? Somebody got shot at? Yeah.,Assault,Unknown,Distressed,0.3
+C344,"Okay, what's the address?",Unknown,Unknown,Distressed,0.0
+C345,"emergency. Yeah, this is it from I had a little girl that fell on the ball and",Unknown,Unknown,Distressed,0.3
+C346,"The bedroom is on fire. I have to go fast. Okay, we're on the way.",Fire,Unknown,Distressed,0.3
+C347,"How you doing? I'd like to report like to a double murder in Cambridge, on it. Okay, do you know the answer? I know. You are.",Assault,Cambridge,Distressed,0.7
+C348,"165 Airborne Road, I've been shot on 1675 Airport Road.",Assault,Airport Road,Distressed,0.3
+C349,Вам еще нельзя упадить. Мне нельзя будет буддить работать.,Unknown,Unknown,Distressed,0.0
+C350,I need some help. What's going on?,Unknown,Unknown,Distressed,0.3
+C351,Conjects if there's a fire. Give the fire at what address man?,Fire,Unknown,Distressed,0.3
+C352,"Hi, something just exploded at the end of Sayat. Okay, is there any...",Fire,Sayat,Distressed,0.0
+C353,I think someone is trying to break into my home. Just stop at 56.,Unknown,Unknown,Distressed,0.1
+C354,"Ok, what is Sara doing at London? Hi, I'm Panstix.. I'm just meeting a lot of my closest relatives here in health.",Unknown,London,Calm,0.0
+C355,"I'll say what's going on, he said I want to help Brown. He's on Brown, she's in the floor now. Okay, may I...",Unknown,Brown,Calm,0.65
+C356,I just shot my mother in my... You shot your mother?,Assault,Unknown,Distressed,0.3
+C357,I just witnessed a shooting on third Avenue in Nickers. Third in Nickers and how many minutes.,Assault,third Avenue,Distressed,0.3
+C358,I'm not so lucky to hear it now. We just got stuck by lightning. And we're both on the moon.,Unknown,Unknown,Calm,0.3
+C359,We have an aircraft declaring an emergency is going to land on the beach at Venice. Close to the airport. I'm not sure it got...,Unknown,Venice,Distressed,0.3
+C360,"No, I think someone's in. David, you hear the front door? I'm hearing no lights, the door's.",Unknown,Unknown,Distressed,0.1
+C361,we heard looked in the garage door was up and i thought the gentleman was backing up and went back,Unknown,Unknown,Distressed,0.0
+C362,We've been beating. It's the family daughter. I'm bleeding.,Assault,Unknown,Distressed,0.3
+C363,I have a gun range officer that got shot in the head. We're at a... Samture's point.,Assault,Unknown,Distressed,0.6
+C364,"I need 10 minutes right now for you. Okay, let's be a drag.",Unknown,Unknown,Distressed,0.3
+C365,We go up to this lady she laying in the road. I think she would get by a car. Okay. I got ahead injury. Oh,Accident,Unknown,Distressed,0.0
+C366,"I'm going to ruin the way I'm at. But my line looks like this guy robbed and he got shot. Okay, fun.",Theft,Unknown,Distressed,0.3
+C367,She cut me who cut you there's no no hold on,Unknown,Unknown,Distressed,0.0
+C368,Please have me try to get my house. What are they doing? They tied my fund door and my schedule are now.,Unknown,Unknown,Distressed,0.6
+C369,"There's been a shooting, I just shot a man attack. We'll make a stop. OK, sir. If he enters.",Assault,Unknown,Distressed,0.65
+C370,"I love me, I just love you more. Are you at a house? For a house?",Unknown,Unknown,Calm,0.0
+C371,"Yes, man, I just shot my doider and shot all my grandkids.",Assault,Unknown,Distressed,0.3
+C372,Because I'm not my way to work on North Sound on Redwood Road.,Unknown,"North, Redwood Road, North Sound",Distressed,0.0
+C373,"¡Ahhh! ¡Esto es eso! ¡Ay, un buen! ¡Cuál es la emergencia!",Unknown,Unknown,Calm,0.2
+C374,I got arrived from 21 to what's he's so cold? My 35 travels.,Unknown,Unknown,Distressed,0.0
+C375,"And there was a guy and there was a pistol and I was falling fake, but he's like pointed at everybody.",Unknown,Unknown,Distressed,0.0
+C376,"I'll shut my husband and shut me, so we'll shut to me. Okay, hold on for me. Okay.",Unknown,Unknown,Calm,0.0
+C377,"I'm sorry, there's a situation here. We have residents that I think they stole a car.",Accident,Unknown,Distressed,0.0
+C378,I'm in a glory in a race where it's where I go away.,Unknown,Unknown,Calm,0.0
+C379,I think it's murder. What makes you think that? Because...,Assault,Unknown,Distressed,0.3
+C380,"Um, I don't know if my husband had eyes rolling back. He's just not breathing.",Medical,Unknown,Distressed,0.6
+C381,I'm out here right now and I lost my keys in my car. Is there any way that someone can come out here?,Accident,Unknown,Distressed,0.4
+C382,It's not an emergency. The only way I know how to get in touch with this woman is,Unknown,Unknown,Distressed,0.6
+C383,What's going on there? Let's see what's going on there.,Unknown,Unknown,Calm,0.0
+C384,"Now, one, one, where's your emergency?",Unknown,Unknown,Distressed,0.6
+C385,"Same. I hear you, br-",Unknown,Unknown,Calm,0.0
+C386,"I'm sorry, but the fireworks bill on. I'm sorry, you cannot call 911 for that.",Fire,Unknown,Distressed,0.3
+C387,I just received a call a few minutes ago from one of our VPs who states that he's up.,Unknown,Unknown,Distressed,0.0
+C388,If the Digman hit the park at 31st Avenue in Valmont.,Accident,"31st Avenue, Valmont",Distressed,0.0
+C389,"would he let him walk? Yes. Sharon crackling of sounds to play, Charliejo Why don't you tell him what he went all the way if Chacrowd friend asked a girl, markets notนoth advisable , where you put нап",Unknown,Unknown,Calm,0.0
+C390,There has been four gunshots. Close to the second. And it is in the middle.,Assault,Unknown,Distressed,0.6
+C391,I cut my wife so sweet in the bathtub and I think she's dead. I want you with the anger.,Unknown,Unknown,Distressed,0.3
+C392,"We just found the body of a baby, my grandson.",Unknown,Unknown,Distressed,0.0
+C393,I would have brought behind him and his brother along with me and I called down there because I was feeling this.,Unknown,Unknown,Distressed,0.0
+C394,This is our scouting utility emergency dispatch. We found a human skull. Oh my gosh.,Unknown,Unknown,Distressed,0.3
+C395,911 emergency. I need a police to come to my,Unknown,Unknown,Distressed,0.3
+C396,"Yes, no, I want to report a drug overdose.",Medical,Unknown,Distressed,0.1
+C397,"Hello? Hello, my dad and my uncle just got shot. Okay. Oh my god, I don't like that. Two people shot at this time.",Assault,Unknown,Distressed,0.3
+C398,on the side of the guide. And you can tell my little foot in there now. OK. Can you tell us?,Unknown,Unknown,Calm,0.35
+C399,"My brother, he was playing like with his gun.",Assault,Unknown,Distressed,0.3
+C400,My brother is counting. Where are you at? I'm at the...,Unknown,Unknown,Distressed,0.0
+C401,"My guy, my girlfriend is yesterday. Calm down, sir. Is she still breathing?",Unknown,Unknown,Distressed,0.0
+C402,"We have a gunshot wound accidental in the household. Okay, how old?",Assault,Unknown,Distressed,0.8
+C403,"Somebody just, somebody just take him in my house. What did he hit her in the head with? I have not. I don't want-",Accident,Unknown,Distressed,0.0
+C404,There's a cleaning out of Rockville Road at 9.6.9.,Unknown,Rockville Road,Distressed,0.0
+C405,"I don't know what this kid has done, and she's like going into a theater or something. And I don't know. Now just keep on...",Unknown,Unknown,Distressed,0.3
+C406,"I got my gun out. There's somebody trying to get in my house. Okay, alright, let's go.",Assault,Unknown,Distressed,0.3
+C407,"emergency. 5-001, there's man, we'll be done. 5-001.",Unknown,Unknown,Distressed,0.3
+C408,I can't hear you scream and I can't...,Unknown,Unknown,Distressed,0.0
+C409,"We're having a baby or in Boulder Creek. We need to get the shutter. Okay, what's the problem? Some exact what happened.",Unknown,Boulder Creek,Distressed,0.0
+C410,Where's your emergency? I'll get a fire. Super-agore is following twig. Hold on just a second. Slow down. What's the address?,Fire,Unknown,Distressed,0.6
+C411,"I just came home, the door was busted in and my girlfriend's been shot.",Assault,Unknown,Distressed,0.3
+C412,"It just crashed into the Hudson River, a US Air.",Accident,"River, the Hudson River",Distressed,0.25
+C413,"I have the car he just can't really get him. It was screaming at each other. So, he's fine.",Accident,Unknown,Calm,0.0
+C414,"I've got a burglar. A burglar. Yes, ma'am. In the burglar.",Theft,Unknown,Distressed,0.0
+C415,The baby's not playing me on this. It's a damn baby highlands avenue. 12 baby highlands highlands.,Unknown,Unknown,Distressed,0.0
+C416,Can I help you? Certainly. A couple of people who have picked over in the Great Salt Lake have got them on the line.,Unknown,"Salt, the Great Salt Lake",Calm,0.3
+C417,"No, I'm lonely. I'm lonely. Just broken into a house where I'm lonely. Please help us. That's what my life is in half now.",Unknown,Unknown,Distressed,1.0
+C418,"So when you're lagging off the rod and trying to brake that 돼... I'm only concerned what I Signaled wasn't Horay tries to get any. The C. Croatia sucks. But E.B. could've payed over an hour of pay. Furthermore, the C. this is how my mother was roasted during the day. In a spoked truck, most of the dinners are ready for heavy or strange lighting oggi.",Unknown,E.B.,Distressed,0.25
+C419,"I'm coming here to buy something. I've listened to this. When I get there, I'm in the window.",Unknown,Unknown,Calm,0.0
+C420,"Yeah, I was trying to find out if I knew to bring like any chick stoops or a",Unknown,Unknown,Distressed,0.0
+C421,"I see some activity going on in the car and I don't think it's proper. Okay, what kind of activity is it, sir? It looks like...",Accident,Unknown,Distressed,0.0
+C422,This is emergency 911 emergency. 340 soil.,Unknown,Unknown,Distressed,0.3
+C423,You said we dropped your store apart. Someone what? We just dropped your store apart.,Unknown,Unknown,Distressed,0.1
+C424,floor. You'll be on the floor. She'll be on the floor. Okay. I'm going to tell you how to help deliver the baby. Okay.,Unknown,Unknown,Calm,0.3
+C425,What's the problem? What's the problem there?,Unknown,Unknown,Distressed,0.0
+C426,It does crash. What? A plane crashed on 17th and Lincoln in houses.,Accident,Unknown,Distressed,0.2
+C427,like gunshots being fired. Okay. I don't know where they're coming from. It was two days.,Assault,Unknown,Distressed,1.0
+C428,"My girlfriend, she has a sex boyfriend and she's been talking to hell out of her. Okay, just talking out there.",Unknown,Unknown,Distressed,0.0
+C429,We just got a cry that somebody had shot somebody in a health diagnosis.,Assault,Unknown,Distressed,0.3
+C430,"We've missed all the kidnaps in the night. Thank you, thank you. Who is kidnapped?",Theft,Unknown,Calm,0.0
+C431,"of gentlemen in the center room, and the instrument, you change the room. A bank of pot fell out of this room.",Unknown,Unknown,Distressed,0.0
+C432,"If I have been to the same thing, I will be open to the 14th, 2000, definitely a gas at a time zero.",Unknown,Unknown,Distressed,0.0
+C433,"The man lying on the highway. He's lying down at the edge of the earth, but on his arm.",Unknown,Unknown,Distressed,0.0
+C434,"I want to talk, I want to talk, into my mouth, into my heart, my heart, my heart.",Unknown,Unknown,Calm,0.0
+C435,I am. My uncle's job is to put a knee snack in his girlfriend's back and I am picked here. What? I am picked.,Unknown,Unknown,Distressed,0.0
+C436,I ordered a Pinchy Chicken Leget with a small bite as...,Unknown,Unknown,Distressed,0.0
+C437,"Somebody just, somebody just, and I'm gonna send a call to the police. I'm gonna be there's all on each day. Somebody just,",Unknown,Unknown,Distressed,0.0
+C438,"Help me. Okay, what's up, honey? My son isn't at least. I'm doing crazy.",Unknown,Unknown,Distressed,0.3
+C439,I've been shot two-fourty-one-one. You've been shot. With that just...,Assault,Unknown,Distressed,0.3
+C440,Brian Chessens at 7-1-Bot-Glorm Circle and he is wrestling us to get in my house.,Unknown,Unknown,Distressed,0.0
+C441,"Yeah, I think it's least like that on my head. Yeah, man. We just got we just call it to boys breaking in our call",Theft,Unknown,Distressed,0.0
+C442,Somebody walk into our house last night. I don't know.,Unknown,Unknown,Distressed,0.3
+C443,My ass bloopers is staring at the hell out of me It's stopping in my head and my neck and my...,Unknown,Unknown,Distressed,0.0
+C444,"My partner's on fire, he can't. Err! Okay, stay on the line with me, don't hang out. No, please!",Fire,Unknown,Distressed,0.7
+C445,I don't want Marge and Martin to stay. Help! It's a guy's coming! I can take him and go!,Unknown,Unknown,Calm,0.45
+C446,"I think he had a parachute on him, a guy parachute.",Unknown,Unknown,Distressed,0.0
+C447,"What's the problem there? There's a fire on pregnant. There's a fire at home? Yes, please come. OK, get outside.",Fire,Unknown,Distressed,0.65
+C448,Why would the pan cut me? I need assistance right away. What happened? My wife has now,Unknown,Unknown,Distressed,0.3
+C449,I have a concern for a co-worker. She just called me and sounded very...,Unknown,Unknown,Distressed,0.1
+C450,"A white female passenger pass out on one of our vehicles, which is 21-22.",Accident,Unknown,Distressed,0.0
+C451,"Hello, um, he's going down to the black way with my baby. Okay, where are you?",Unknown,Unknown,Calm,0.0
+C452,I'm going to turn this to the 258 from here. I'm going to turn the 258 from here.,Unknown,Unknown,Distressed,0.0
+C453,"I don't know. There's a lady laying out here on the side wall. Okay, bleeding. Okay. Are you with the lady?",Medical,Unknown,Distressed,0.6
+C454,"Hi, my name is Jean Thomas. I'm watching my home on live monitor and there's a black man in my house and he's robbing it.",Theft,Unknown,Distressed,0.0
+C455,"I'm going to start giving him out the lobby for any black. Miss, yes, General, I know it's where you with him now.",Unknown,Unknown,Distressed,0.3
+C456,There is a strange man outside our home and he hollered.,Unknown,Unknown,Distressed,0.0
+C458,My wife says in the bathroom she is bleeding all over the place. She thinks she's having a...,Medical,Unknown,Distressed,0.3
+C459,"and since May 8th, we've just got robbed. Okay, what they look like.",Theft,Unknown,Calm,0.0
+C460,We've got a person here who is not fit to drive and needs to be taken to that system.,Unknown,Unknown,Distressed,0.0
+C461,"because I'm the lady, I'm my teenage lady, she was yelling for help, and they looked like she had a blood all over her.",Disturbance,Unknown,Distressed,0.3
+C462,"There's somebody killed someone. Okay, ask for where the suspect is.",Assault,Unknown,Distressed,0.4
+C463,NIL Japan Yeah we're Sign,Unknown,Japan,Calm,0.05
+C464,The man is withhelped by fire.,Fire,Unknown,Distressed,0.6
+C465,I need an ambulance for two hours. Somebody just come and collect you up. What a drug.,Medical,Unknown,Distressed,0.0
+C466,units know that it is confirmed rotation on the ground. Just want to roll our house off for five. Bring clean.,Unknown,Unknown,Distressed,0.3
+C467,way into the north I've seen a funnel cloud just reporting my first optimally or residing garbage,Unknown,Unknown,Distressed,0.1
+C468,We just got in the tornado and the car slipped and the windows mercy and we're bleeding.,Accident,Unknown,Distressed,0.3
+C469,I told you this came across there say 24 okay. Yeah,Unknown,Unknown,Calm,0.0
+C470,"Yeah, I have a rotating cloud coming in a southwest of Regis, Yeah.",Unknown,Unknown,Calm,0.0
+C471,"Yes, it looks like we're gonna touch down on broad moral. Are you hard car? No, I'm looking at",Accident,Unknown,Calm,0.0
+C472,"No, ma'am, we can see a tornado. We're at 914, Hillcrest. We have about five of us all.",Unknown,Hillcrest,Calm,0.0
+C473,"My mom, she's sick and she can't wait to see you. She can't wait, God.",Unknown,Unknown,Calm,0.0
+C474,I'm so glad we need the wheels to the car. She ran over three people in a row. Where? I'm so glad we're here again.,Accident,Unknown,Calm,0.0
+C475,Where is the guy with the gun in the case he's with Ames? Which case is the Lincoln Y1?,Assault,Unknown,Distressed,0.35
+C476,I'm just kidding the sounds of it. You can hear it in. Who is that? That's the course to be in that style.,Unknown,Unknown,Concerned,0.0
+C478,"My phone is on my phone. Okay, 615. It's okay.",Unknown,Unknown,Calm,0.0
+C479,"and then warrant. There's a fire back here at someone's front porch. Okay, where you need the fire department, ma'am?",Fire,Unknown,Distressed,0.4
+C480,We just saw a big airliner just being coated by two five planes.,Accident,Unknown,Distressed,0.0
+C481,So we'll only get reviltrared. OK. Thank you. Keep going until the second round.,Unknown,Unknown,Calm,0.05
+C482,emergency. Oh that's the F18 chasing a big commercial plane around and around all those downtown,Accident,Unknown,Distressed,0.35
+C483,"Yeah, I had two unusual aircraft fly really close.",Unknown,Unknown,Calm,0.0
+C484,I'm the designer of the house and I'm really just a robber. What are your address? My name is...,Unknown,Unknown,Distressed,0.0
+C485,by the river the dog jumped in the water and we can't get out. Oh my god!,Unknown,Unknown,Distressed,0.05
+C486,"Just let me just walk up and then we'll settle down and drop. Okay, sir, stay with me, okay?",Unknown,Unknown,Calm,0.0
+C487,"If not, I'm calling from the Sheraton Baltimore North. Yes sir. We have a dead body in one of our rooms.",Assault,Baltimore,Distressed,0.3
+C488,because they just jumped my 13 year old daughter and it's about to be all hell for a glimmer on.,Unknown,Unknown,Distressed,0.0
+C489,We got off for damn. What do you mean you have an off? We don't have a whole bunch of officers down.,Unknown,Unknown,Distressed,0.0
+C490,"Bu дядр,W war",Unknown,Unknown,Distressed,0.0
+C491,"You know, Lyleview's shut down. You heard what? I seen a Lyleview's quiet down.",Unknown,Unknown,Distressed,0.3
+C492,It's too late. And the high winds have the...,Unknown,Unknown,Distressed,0.0
+C493,"We had a dead body right out in front of our school in the grass area, but we're at the John Fee door to be John's in location.",Assault,the John Fee,Distressed,0.3
+C495,"If the address is 1160 Ray Road, we have a baby missing out of a crib.",Unknown,Unknown,Distressed,0.2
+C496,I just called over to my sister's house and I have a phone.,Unknown,Unknown,Distressed,0.0
+C497,The phone man following me from the application. Damn. Did he show the gun to you?,Assault,Unknown,Distressed,0.3
+C498,Somebody just came in and shot my daughter and my husband. They shot them? They shot them? What's your act?,Assault,Unknown,Distressed,0.3
+C499,I'm watching TV and I heard five shots and there's someone laying in my front yard. A woman's sitter.,Assault,Unknown,Distressed,0.45
+C500,I just killed my family. What's the knife? All of them. All for real. What's your name? Michael Miller.,Assault,Unknown,Distressed,0.6
+C501,MY CAMBE! SCREWT but is he going to steal her? Where are you? I don't know how to tell your mama...,Unknown,Unknown,Distressed,0.5
+C502,I'm not going to be a police fire ambulance. I need to be a police comm. I'm a brother strong and he took out a knife. Police.,Fire,Unknown,Distressed,0.6
+C503,I'm pulled over in the road. My husband's in the middle of the road having a serious like psych...,Unknown,Unknown,Distressed,0.0
+C504,"Well, my husband's not, I cannot seem to wake him up.",Unknown,Unknown,Distressed,0.0
+C505,"Now listen here. I've got two people here help hospital, right? Okay. Now you know what?",Unknown,Unknown,Distressed,0.6
+C506,see. Bargur was breaking into a house next door. What's the address there sir? 74.,Theft,Unknown,Distressed,0.0
+C507,"Our state, we have a Burmese python, it's about 12 foot long, she got out of the cage last night and got into...",Unknown,Unknown,Concerned,0.0
+C508,"We were just said and talking my wife, you know Bob, and then she fell on the floor. Okay, what?",Unknown,Unknown,Distressed,0.3
+C509,"I don't want to go. Hey, just before I made a street up here by Wild Rock chasing us. Where are you at?",Unknown,Wild Rock,Distressed,0.0
+C510,It's a must've been shot. I haven't picked the vitals.,Assault,Unknown,Distressed,0.3
+C511,There's a guy there with a gun. Yeah. Black and white. Black and white.,Accident,Unknown,Distressed,0.3
+C512,I'm glad to have some guys walking around the parking lot. Welcome to some great garden. He's a big person. Tell me the address please.,Unknown,Unknown,Calm,0.3
+C513,"Yeah, the man on the phone says there's a man on his property with a gun. Okay, and that's where the person is supposed to be too.",Assault,Unknown,Distressed,0.3
+C514,I just been bitten by a red tail fox up in Red Reef Park.,Unknown,Red Reef Park,Distressed,0.0
+C515,"Yes. We had a, I think, a shooting right now on the bus barn on the high school.",Assault,Unknown,Distressed,0.6
+C516,"out, not working. Not working. My babies are in there. Oh my God, I'm moved here.",Unknown,Unknown,Distressed,0.0
+C517,Somebody just came in and shot my daughter and my husband. They shot them. Please send me a check. I love my girl.,Assault,Unknown,Distressed,0.6
+C518,is not breathing. Okay. Is there any way you can,Medical,Unknown,Distressed,0.3
+C519,What do I think? I think I need an ambulance. I've got a teenager who's turning purple in his face. I think he's soaked out or something.,Medical,Unknown,Distressed,0.0
+C520,"Yeah, there's been a bunch of guns out to my house. I think a bunch of people were shot. We're at 2112 views.",Assault,Unknown,Distressed,0.6
+C521,"estoy hablando aquí el chico de la mongos si, que pasa están unos hombres",Unknown,Unknown,Distressed,0.0
+C522,"Hi, what's your name? I'm Tom. And a little girl just went to the bathroom for a long time to enter.",Unknown,Unknown,Distressed,0.0
+C523,And it's like I just tried to get out of this car. I got out of this car and he tried to get in my truck.,Accident,Unknown,Distressed,0.0
+C524,"Somebody has been shot. They're calling to please and an ambulance. Yes, does he want the horseshoe? Yes, what?",Assault,Unknown,Distressed,0.6
+C525,I'm just having older women standing here and she had noticed two gentlemen trying to get in a house.,Unknown,Unknown,Concerned,0.0
+C526,"Easy. Easy now, my sister.<|bs|>.",Unknown,Unknown,Concerned,0.3
+C527,I have been in the news recently about being on in a hotel naked.,Disturbance,Unknown,Distressed,0.0
+C528,There's an armed robbery going right on right now. I've been shot in the back and I'm bleeding. You've been shot in the back? Yes. OK.,Theft,Unknown,Distressed,1.0
+C529,"And yes, my friends have to have me. He doesn't have to. He'll have to.",Unknown,Unknown,Calm,0.0
+C530,absolute,Unknown,Unknown,Calm,0.0
+C531,"emergency, my girlfriend just jumped off the back of our hotel room.",Unknown,Unknown,Distressed,0.3
+C532,"Yes, other guys been shot. Okay, right here on Burdenon Avenue. I want to see if the M1",Assault,Burdenon Avenue,Distressed,0.35
+C533,"No, there's people trying to break in my house. Okay, they're there right now. They're here right now. They just spoke a basement window.",Unknown,Unknown,Distressed,0.3
+C534,"Alright, I killed my girlfriend. Excuse me? Did you hear me? I want you to re-",Assault,Unknown,Distressed,0.3
+C535,three black men in the middle of Russell Boulevard and one of them has like a,Unknown,Unknown,Calm,0.0
+C536,"it was a bus. Let me see. Okay, I'm right. Yeah. It's wrapped by one...",Unknown,Unknown,Calm,0.0
+C537,"And with the already got somebody on the way, can you give me any kind of description? It's too black guys.",Unknown,Unknown,Distressed,0.0
+C538,There are three black gentlemen that are there harassing the women out there.,Disturbance,Unknown,Distressed,0.0
+C539,"I was at a McDonald's, I paid $10 and these guys gave me one burger and a five.",Unknown,Unknown,Distressed,0.0
+C540,I gave you guys $10 they gave me one burger and a fry and told me to fuck.,Unknown,Unknown,Distressed,0.0
+C541,I've been run over. I've been run over. They all use real chat for...,Unknown,Unknown,Distressed,0.0
+C542,"Yes, my husband is a black man, I stabbed him. Okay, what's your address? 94 95 Stabber.",Assault,Unknown,Distressed,0.3
+C543,I'm driving and I have somebody chasing me and they just hit my car.,Accident,Unknown,Distressed,0.0
+C544,"I'm gonna go to my son, he's here. He's here. I think he's drunk. I don't know if he has to go to my police.",Disturbance,Unknown,Distressed,0.5
+C545,"Well, I'm the arm drum now, I'm just trying to figure out the thing when you hit.",Accident,Unknown,Distressed,0.3
+C546,Why do I think we have to make this shit worth a matter? I'm at the court.,Accident,Unknown,Distressed,0.0
+C547,I have a concern for a co-worker. She just called me and sounded very...,Unknown,Unknown,Distressed,0.1
+C548,"I just think, he's called family, he's dead. He's trying to hysterical, I can't understand. I'm having a ton of over this.",Unknown,Unknown,Distressed,0.3
+C549,"That being fired in so many things, how? So I'm finshada. Yeah, you can slide there over.",Fire,Unknown,Distressed,0.3
+C550,Someone is getting my house. It was an issue.,Unknown,Unknown,Distressed,0.1
+C551,I just saw a guy go into a room.,Unknown,Unknown,Distressed,0.0
+C552,I'm sorry.,Unknown,Unknown,Distressed,0.0
+C553,"Just been shot in front of my parents. You've been shot? Yes, right. Where have you been shot at? To the end of my leg.",Assault,Unknown,Distressed,0.3
+C554,"Yes, the guy is following us with shotgun and he's trying to run us off the road. There you are. We're standing...",Assault,Unknown,Distressed,0.6
+C555,"Somebody just broke into our house. With the address, Kevin, to me. With the address, I shot him. You shot him?",Theft,Unknown,Distressed,0.5
+C556,"I just got my daughters and my children. You just did a lot of it? Got my daughters? Yes, got them.",Unknown,Unknown,Calm,0.0
+C557,Which two people in the house? Do they have weapons? Huh? Yes. What type of...,Assault,Unknown,Distressed,0.3
+C558,"Hi, my name is Stephen Rodwald and I just heard a shoot my dad.",Unknown,Unknown,Calm,0.0
+C559,The baby was fully seeing the mother I had.,Unknown,Unknown,Calm,0.0
+C560,My name is Stacy and I'm driving towards Ontario and a car went off into me at my marker 22,Accident,Ontario,Calm,0.0
+C561,I just can't get him sex with a window. Is anybody hurting your house? I don't know yet.,Unknown,Unknown,Distressed,0.3
+C562,Two people are breathing towards no call. Yes.,Unknown,Unknown,Calm,0.0
+C563,"What's going on? I don't know. Somebody broke the window I know. And your house or your car? Ah, smart.",Accident,Unknown,Calm,0.5
+C564,"there are two men who was going to try to kill me. They have my husband on the floor. He's bleeding. All right, what is he?",Medical,Unknown,Distressed,0.3
+C565,"Hey, the sprawler has taken a very good death trail. Yeah, people enjoy it. So, so, so.",Unknown,Unknown,Calm,0.0
+C566,"and there were some kids over there, just one other kid, little fire and another kid in. Oh God.",Fire,Unknown,Distressed,0.3
+C567,The little boy just called on fire and he jumped off the other swimming car. What's the address?,Fire,Unknown,Distressed,0.3
+C568,I cut my wife so sweet in the bathtub and I think she's dead. I want you with the anger.,Unknown,Unknown,Distressed,0.3
+C569,"right now. She just gone and I need him out. Is this house? Okay, what do you mean, she would be in the end?",Unknown,Unknown,Distressed,0.3
+C570,I just killed my boss. You just did what?,Assault,Unknown,Distressed,0.3
+C571,"Yeah, I have a black guy in here. He says he's gonna wrap the store and anyone is supposed to give him He says he has a gun on him",Assault,Unknown,Distressed,0.3
+C572,Hello. I need to raise up to you. Please come on in.,Unknown,Unknown,Calm,0.3
+C573,"Please. Give me the address first, ma'am. Ma'am?",Unknown,Unknown,Distressed,0.3
+C574,I have so many people are shooting and people are running out of my building at work.,Assault,Unknown,Distressed,0.3
+C575,"Yes, ma'am, I'm having a shot. BEEP BEEP",Assault,Unknown,Distressed,0.4
+C576,"uca 보세요, anyona",Unknown,Unknown,Distressed,0.0
+C577,I'm bringing the key to the master right now. I work at 3 Bay and a couple of the ladies that work there just ran down here.,Unknown,Unknown,Distressed,0.3
+C578,We were closing the store and the guy came in with a mask on and I think...,Unknown,Unknown,Distressed,0.0
+C579,"I'm not sorry, my neighbor came. And now she said her husband said, the baby, I'll fire. I don't know, the lady.",Fire,Unknown,Distressed,0.6
+C580,He will just throw in my neighbor's house. Just the address. What's the address?,Unknown,Unknown,Distressed,0.0
+C581,I think I got shot. Danny Sriper 4203 Lake Avenue with Fumbi.,Assault,"Fumbi, Lake Avenue",Distressed,0.3
+C582,the black kana run,Unknown,Unknown,Distressed,0.0
+C583,"Your mommy's sick. If your mommy's sick, does she need an ambulance? Mommy.",Medical,Unknown,Distressed,0.0
+C584,I woke up this morning and my daughter was not in the house. I don't know if she walked out. I don't know.,Unknown,Unknown,Distressed,0.3
+C585,What's going on man?,Unknown,Unknown,Distressed,0.0
+C586,I just killed my daughter. You what? I just killed my daughter.,Assault,Unknown,Distressed,0.3
+C587,"I'm a literacy expert. Man, man, man, man, man, man, calm down.",Unknown,Unknown,Calm,0.0
+C588,I need to unambient quickly and out of fire fire in commission,Fire,Unknown,Distressed,0.6
+C589,The house is on fire. The house is blowing up. Can you guys can listen? We've already got a call. Is it on a line?,Fire,Unknown,Distressed,0.3
+C590,There's a man at my back door he's trying to get in.,Unknown,Unknown,Distressed,0.0
+C591,Давай than,Unknown,Unknown,Concerned,0.0
+C592,His friends are his friends because it's one of the things I don't know.,Unknown,Unknown,Calm,0.3
+C593,"left heading south on 9.51. Yeah, it's a fairly new model truck. Looks like a Dodger afford.",Unknown,Unknown,Calm,0.0
+C594,"We've found an elephant walking down the street near the community center, the rate 20.",Unknown,Unknown,Distressed,0.0
+C595,"Oh, I was coming to pass out. Is there anything else? I was coming to pass out.",Unknown,Unknown,Distressed,0.0
+C596,I think I know why you could follow me home because somebody thinks it feels a big I can't drive home straight.,Unknown,Unknown,Distressed,0.3
+C597,"radio I haven't been in the lobby with the gun. All right, is everybody okay? Everybody away from home? Oh, yeah.",Assault,Unknown,Calm,0.3
+C598,"Can we meet police assistance for this? Okay, what's going on?",Unknown,Unknown,Distressed,0.0
+C599,My mom and her boyfriend and her boyfriend felt marijuana.,Unknown,Unknown,Distressed,0.0
+C600,"I accidentally shot my husband. You accidentally shot your husband? Yes. OK, is he breathing?",Accident,Unknown,Distressed,0.55
+C602,"Uh, these came up to visit all of the home fathers. Uh-huh. And I think they were lovely to see them.",Unknown,Unknown,Calm,0.0
+C603,I'm going to cost him a gunpoint and the 3400 block to highway drive southeast.,Assault,Unknown,Distressed,0.3
+C604,I need to tell a few minutes to start shooting. I don't know where I'm at. One winter is dropping. The birds are falling.,Assault,Unknown,Distressed,0.6
+C605,We got a baby that's not responsible. We're at 3301 West Noelle Drive.,Unknown,Unknown,Distressed,0.0
+C606,I'm going to return air cream. Just went down off of Encona. And airplane.,Accident,Encona,Distressed,0.0
+C607,"I'm not in any danger right now, but it's all my urgent. These people, they came through my door.",Unknown,Unknown,Calm,0.3
+C608,I might just call it the potential robbery and my mother's been missing for... I don't know.,Theft,Unknown,Distressed,0.8
+C609,"Yeah my, my dad did that shot back bad times day Okay, wait",Assault,Unknown,Distressed,0.3
+C610,"I went off the road, I'm in a retention pond right now. You're in the retention pond? Yeah. Okay.",Unknown,Unknown,Distressed,0.3
+C611,your emergency? I've got a gentleman in quarantine with a gun. I need someone here right now. I'm the storm manager.,Assault,Unknown,Distressed,1.0
+C612,I need a phyllo-prove laser for a computer officer to my house.,Unknown,Unknown,Distressed,0.0
+C613,is going to take please help into a by turn. Can you吸 content?,Unknown,Unknown,Distressed,0.6
+C614,She's shooting at her! Come to the fucking house! That's not the way!,Assault,Unknown,Distressed,0.45
+C615,"I just killed my kids. What's your name, male? Julia Murray. What is it?",Assault,Unknown,Distressed,0.3
+C616,"I'm not going to try to jump the other way, I'm going to go. And I'm trying to act like I can't hear you.",Unknown,Unknown,Distressed,0.0
+C617,the building on 334 south of 8 quarters on fire. Report of a house fire house fire.,Fire,Unknown,Distressed,0.4
+C618,"there's a house on fire. There's a house on fire. 30, 30, 30, 38.",Fire,Unknown,Distressed,0.3
+C619,"I think there's been a murder. Okay, and where is the person at? Is the victim?",Assault,Unknown,Distressed,0.3
+C620,I know a lot But look and the clemen I know Whoo,Unknown,Unknown,Calm,0.3
+C621,There's a fight broke out in the liquor store. There's a customer holding him back. You guys need to...,Assault,Unknown,Distressed,0.4
+C622,"ey, but work.",Unknown,Unknown,Calm,0.0
+C623,I've got a black man here who's supposed to come out of house. Repanded.,Unknown,Unknown,Distressed,0.0
+C624,We have a trainer in the water with one of our whales. The whale that's set up to be in the water with? Okay.,Unknown,Unknown,Calm,0.0
+C625,"There's some car, there's some guy, there's gonna be a way more than that. Can you close?",Accident,Unknown,Calm,0.0
+C626,"I think the house will fire. Okay, with me, and we are is it? One, two, two, one, eight.",Fire,Unknown,Distressed,0.3
+C627,"Yes, you're big. You just wanted to go back. I don't know where you are.",Unknown,Unknown,Calm,0.3
+C628,"Yeah, I just killed somebody. You what? I just killed somebody. You killed somebody? Yeah.",Assault,Unknown,Distressed,0.3
+C629,"shot, which had fired on Russian",Fire,Russian,Distressed,0.6
+C630,"Orn Cavenday, there's somebody shot somebody in the store. Okay, orn Cavenday, where?",Assault,Unknown,Distressed,0.3
+C631,the media leaders that died with a knife for me. Brown token. Don't threaten me.,Assault,Unknown,Concerned,0.3
+C632,"Okay, is that a single family home or an apartment man?",Unknown,Unknown,Distressed,0.0
+C633,"My point goes shot. Alright, Santa, I want to come in with you. Are you over there, Lesky?",Assault,Santa,Distressed,0.3
+C634,瓜董风locked they are,Unknown,Unknown,Distressed,0.0
+C635,I don't have money to buy a ticket. I don't have money.,Unknown,Unknown,Distressed,0.0
+C636,or there's none. This is my one one. Do you need police or medical...,Medical,Unknown,Distressed,0.0
+C637,"Yes, they are killing so we have pardoned.",Unknown,Unknown,Distressed,0.0
+C638,"Hey, I got her, I got an audio. Seminole with the transistor. Okay, pull it. Okay, I'm in the middle.",Unknown,Unknown,Concerned,0.0
+C639,"I'm not a mom or a guy shot. What? I'm not a man, I'm not a guy shot. Bye, who?",Assault,Unknown,Distressed,0.3
+C640,There's been an explosion on I 30 on I'm sorry 183 research. I'm gonna test you. I'm at,Fire,Unknown,Distressed,0.0
+C641,"Okay, what kind of plane was it? How big was it, sir? It looked like a desna, like a prop plane.",Accident,Unknown,Distressed,0.0
+C642,"No, it's worth everything I'm getting ready to kill somebody. No, it's worth where? Everton. Everton?",Unknown,Unknown,Distressed,0.0
+C643,"Inней Guethwaying with a Bhaktor Bogyakal, we'll be straight by successive",Unknown,Unknown,Distressed,0.0
+C644,I just saw my best friend on the X-E-Santz. Oh my god! I just shot your best friend. How did- where did-,Assault,Unknown,Distressed,0.35
+C645,"And it's what I already saw with me. Okay, how cool. Hey, buddy. Hey, buddy.",Unknown,Unknown,Calm,0.0
+C646,"My dad told me my duck. Her, her dad.",Unknown,Unknown,Distressed,0.0
+C647,I went out broke. I hope she was not back and I was getting her in. Should have been like-,Unknown,Unknown,Distressed,0.2
+C648,"Hey, guys, I just saw a Godfly, two shots after a...",Assault,Godfly,Distressed,0.3
+C649,I can't see anything. I was struck with a bottle. And I'm a freak.,Unknown,Unknown,Distressed,0.0
+C650,I have to unfortunately keep you up for more words can I judge this? Curtis says what I do wrong lol,Unknown,Unknown,Distressed,0.0
+C651,We had someone come in and asked for dial 911 that there's a woman yelling.,Disturbance,Unknown,Distressed,0.1
+C652,"Okay, it's a mind. Ma'am? Yes. What's the emergency? I...",Unknown,Unknown,Calm,0.35
+C653,There's someone at my door and he keeps on knocking on the door and he tried opening it.,Unknown,Unknown,Distressed,0.1
+C654,I just killed my children. Excuse me? I just killed my children. Where are you?,Assault,Unknown,Distressed,0.3
+C655,I have ordered food which is totally ridiculous you can get.,Unknown,Unknown,Distressed,0.0
+C656,It sounded like gunshot behind the door. We were in the door at the title store.,Assault,Unknown,Distressed,0.6
+C657,This is an emergency. My car is in the litter right off the street. Mullins car.,Accident,Unknown,Distressed,0.3
+C658,I make sure to report gun shot wound. Someone gun shot wound.,Assault,Unknown,Distressed,0.8
+C659,"Okay, I got her a female shot 17831, someone had a new apartment and...",Assault,Unknown,Distressed,0.4
+C660,I just came home in my girlfriend and my mother somebody worked at the moment where I had a simple ad-,Unknown,Unknown,Distressed,0.0
+C661,When a water broke never branching back to the handmade. You know it doesn't work.,Unknown,Unknown,Distressed,0.5
+C662,my brother killed my brother. I heard this street name but you're going outside in somewhere a second.,Assault,Unknown,Distressed,0.3
+C663,"There's a guy laying on the road he's leaving. OK, man, I'm going to even hit by a car. I'm going to get started. I don't know.",Accident,Unknown,Distressed,0.35
+C664,I can't find my son. Calm down. What is your address?,Unknown,Unknown,Distressed,0.0
+C665,I killed my boat kids. I'm sorry? I killed my boat kids. They are dying. I...,Assault,Unknown,Distressed,0.65
+C666,Is there a report of somebody shooting? I don't know where. Do you know if anybody's heard right now? Yeah.,Assault,Unknown,Distressed,0.7
+C667,Where's your emergency? There's a gunshot. We're at. Gunshot in 1600. 1600.,Assault,Unknown,Distressed,0.9
+C668,"Who are at our house and told us to break into our house? Okay, where's your mom at? She got-",Unknown,Unknown,Distressed,0.0
+C669,Hello sir. Yeah. Did you dial 911 a little while ago?,Unknown,Unknown,Distressed,0.0
+C670,The shoot over in the main center. That's why you serve. I'm in the building.,Unknown,Unknown,Calm,0.0
+C671,There are bees like hundreds swarming around a guy who can't get up off the ground thousand.,Unknown,Unknown,Distressed,0.0
+C672,20 feet underwater. There! We need to get out here! Out of here! 9-1!,Unknown,Unknown,Distressed,0.2
+C673,And so we get fit What is that? Vyremal What kind of animal is that?,Unknown,Unknown,Distressed,0.0
+C674,"I didn't mean it's gonna be right down. Alright, we will ask her this.",Unknown,Unknown,Calm,0.0
+C675,One of the kids was at the first holiday on the day and I don't know if she's okay enough.,Unknown,Unknown,Distressed,0.3
+C676,"The fight, man, it's smoking out, man. You think Green Park and Dogwood?",Assault,"Dogwood, Green Park",Distressed,0.2
+C677,She's not waking up. Okay. What's her address?,Unknown,Unknown,Distressed,0.0
+C678,"Case it, fámbia a- ス ff e ao o o o sorry, there, a peiser",Unknown,Unknown,Distressed,0.0
+C679,"I just shot the Mormons Bishop over here until they're here. You did? Yes, it is. Your name?",Assault,Unknown,Distressed,0.3
+C680,And this guy has a gun in my hat. I need the cloth. The God's got a gun in my hand. 17.,Assault,Unknown,Distressed,0.3
+C681,So like at least four or five people start at the end. That's where?,Unknown,Unknown,Distressed,0.0
+C682,"I'm going to start with the exact same rules. By a loose, okay? And if he conscious and breathing,",Unknown,Unknown,Distressed,0.0
+C683,"Yeah, we just, I need to report a kidnapping. We're kidnapping, what happened? A guy in a...",Theft,Unknown,Distressed,0.1
+C684,"Hi, I called a little while ago and believe I talked to Stacy. My...",Unknown,Unknown,Calm,0.0
+C685,emergency.,Unknown,Unknown,Distressed,0.3
+C686,"Yes, ma'am. I need somebody to come to Penicry, Glendon. Okay.",Unknown,Glendon,Calm,0.0
+C687,My name is Mary Lyons. I'm the Banking Center Manager at Bank of America at 185 Highland,Unknown,Bank,Calm,0.0
+C688,"You mean some reason to ask her on my mom? Yeah, I don't even, she just called.",Unknown,Unknown,Distressed,0.0
+C689,This is the hospital. Where am I at? On that dog's office. They're shooting in the hallway around the eighth floor of their shooter.,Assault,Unknown,Distressed,0.3
+C690,The old North Shore Road and my husband's been attacked by a bear.,Assault,North Shore Road,Distressed,0.0
+C691,"Somebody somebody's full of them is our shoe and they're not shot by two pieces. Okay, we're getting some up up.",Assault,Unknown,Distressed,0.3
+C692,"Oh my god, the fire! So now, it's the level where I'm inside.",Fire,Unknown,Distressed,0.65
+C693,"on 23rd grade. This is Tony Guzman, I'm a staffer and he was overheaded towards.",Unknown,Unknown,Calm,0.0
+C694,"high, a little airplane, a little one-engine airplane took off from the airport at 83rd Street in Christ.",Accident,"83rd Street, Christ",Distressed,0.0
+C695,"I'm sorry. Good outdoor. Good things. Yes, ma'am. Yes, ma'am.",Unknown,Unknown,Calm,0.0
+C696,Hello. Is everything okay? Ah.,Unknown,Unknown,Calm,0.0
+C697,"Okay, what do you need to believe?",Unknown,Unknown,Calm,0.0
+C698,"Yes, I need the police please, as my house. Glad to. I think we need an ambulance.",Medical,Unknown,Distressed,0.3
+C699,Okay. We need a person back in the meat department to get an in.,Unknown,Unknown,Distressed,0.0
+C700,What do you need? You need the police?,Unknown,Unknown,Distressed,0.0
+C701,"Somebody go into my house. Where the hell is that? What's your address? Yeah, but...",Unknown,Unknown,Distressed,0.0
+C702,"We just got a lot to come upon. It's gonna come here with a gun, shot one of our employees, and uh...",Assault,Unknown,Distressed,0.6
+C703,Now that is vac and sample the floor. So that is Please check it out! And on those,Unknown,Unknown,Calm,0.65
+C704,"Oh, my mind's at the doctor. You're not at the doctor. Are you there alone?",Unknown,Unknown,Distressed,0.0
+C705,I'm attracted to companies. I'm no different choice. Right I am.,Unknown,Unknown,Calm,0.0
+C706,"Oh, there's a student. Who's been shot, man?",Assault,Unknown,Distressed,0.3
+C707,"Yes, I need a police officer over here. What's going on? Um...",Unknown,Unknown,Distressed,0.0
