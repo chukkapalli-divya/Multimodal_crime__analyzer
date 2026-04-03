@@ -72,21 +72,21 @@ All five components connect into one unified pipeline:
 ║  STAGE 3: INFORMATION EXTRACTION                                           ║
 ║  Key fields extracted: event, location, time, entities, sentiment          ║
 ║                                                                            ║
-║  audio.csv    doc.csv     image.csv    video.csv    text.csv              ║
-║  (703 rows)   (10 rows)   (5000 rows)  (284 rows)   (115 rows)           ║
+║  audio.csv    doc.csv     image.csv    video.csv    text.csv               ║
+║  (703 rows)   (10 rows)   (5000 rows)  (284 rows)   (115 rows)             ║
 ╚══════════════════════════╤═══════════════════════════════════════════════════╝
                            ▼
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  STAGE 4: STRUCTURED DATASET GENERATION                                    ║
 ║  All extracted outputs merged into unified CSV using pandas merge/join     ║
-║  Missing values handled with fillna("N/A")                                ║
-║  Severity classification: Low / Medium / High                             ║
+║  Missing values handled with fillna("N/A")                                 ║
+║  Severity classification: Low / Medium / High                              ║
 ╚══════════════════════════╤═══════════════════════════════════════════════════╝
                            ▼
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  STAGE 5: DASHBOARD / QUERY SYSTEM                                         ║
 ║  4-panel matplotlib dashboard + Python query interface                     ║
-║  Filter by: severity, modality, event type, confidence score              ║
+║  Filter by: severity, modality, event type, confidence score               ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
