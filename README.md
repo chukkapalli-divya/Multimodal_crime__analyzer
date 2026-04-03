@@ -51,21 +51,21 @@ All five components connect into one unified pipeline:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 1: UNSTRUCTURED DATA INGESTION                                      ║
-║  Audio files, PDFs, images, video clips, and text posts are collected      ║
+║  STAGE 1: UNSTRUCTURED DATA INGESTION                                        ║
+║  Audio files, PDFs, images, video clips, and text posts are collected        ║
 ╚══════════════════════════════╤═══════════════════════════════════════════════╝
                                ▼
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 2: AI PROCESSING PER MODALITY                                       ║
-║                                                                            ║
-║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐    ║
-║  │ 🎙️ Audio │  │ 📄 PDF   │  │ 📸 Image │  │ 🎥 Video │  │ 📝 Text  │    ║
-║  │          │  │          │  │          │  │          │  │          │    ║
-║  │ Whisper  │  │ PyMuPDF  │  │ YOLOv8   │  │ OpenCV   │  │ spaCy    │    ║
-║  │ spaCy    │  │ spaCy    │  │ OpenCV   │  │ YOLOv8   │  │ HugFace  │    ║
-║  │ HugFace  │  │ pdfplumb │  │ Tesseract│  │ PyTorch  │  │ NLTK     │    ║
-║  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘    ║
-║        │             │             │             │             │          ║
+║  STAGE 2: AI PROCESSING PER MODALITY                                         ║
+║                                                                              ║
+║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐        ║
+║  │ 🎙️ Audio │  │ 📄 PDF   │  │ 📸 Image │  │ 🎥 Video │  │ 📝 Text  │          ║
+║  │          │  │          │  │          │  │          │  │          │        ║
+║  │ Whisper  │  │ PyMuPDF  │  │ YOLOv8   │  │ OpenCV   │  │ spaCy    │        ║
+║  │ spaCy    │  │ spaCy    │  │ OpenCV   │  │ YOLOv8   │  │ HugFace  │        ║
+║  │ HugFace  │  │ pdfplumb │  │ Tesseract│  │ PyTorch  │  │ NLTK     │        ║
+║  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘        ║
+║        │             │             │             │             │             ║
 ╚════════╪═════════════╪═════════════╪═════════════╪═════════════╪══════════╝
          ▼             ▼             ▼             ▼             ▼
 ╔══════════════════════════════════════════════════════════════════════════════╗
