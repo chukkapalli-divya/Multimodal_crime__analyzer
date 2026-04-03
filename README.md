@@ -346,7 +346,7 @@ Multimodal-Incident-Analyzer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lokeshloki1219/Multimodal-Incident-Analyzer.git
+git clone https://github.com/chukkapalli-divya/Multimodal_crime__analyzer.git
 cd Multimodal-Incident-Analyzer
 
 # Install all dependencies
@@ -422,7 +422,7 @@ query_incidents(df_unified, min_confidence=0.9)
 ```
         ┌──────────────────────────────────────────────────┐
         │              TEAM EFFORTS                  │
-        │  Creates repo → Folder structure → Add members    │
+        │  Creates repo → Folder structure → Integration    │
         └─────────────────────┬────────────────────────────┘
                               │
         ┌─────────────────────┼─────────────────────┐
