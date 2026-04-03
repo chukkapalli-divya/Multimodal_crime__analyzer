@@ -11,9 +11,9 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/whisper)
 
-| Course | Type | Duration | Total Marks |
-|--------|------|----------|-------------|
-| **AI for Engineers** | **Group of 5 Students** | **2 Weeks** | **100 Marks** |
+| Course | Type |
+|--------|------|
+| **AI for Engineers** | **Group of 5 Students** |
 
 [Background](#1--background-story) •
 [Pipeline](#2--expected-ai-pipeline) •
@@ -104,7 +104,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 
 ---
 
-### Student 1 — 🎙️ Audio Analyst
+### Keerthana Gummuluri Venkata — 🎙️ Audio Analyst
 
 **Data Type:** Emergency audio calls / witness voice statements
 
@@ -134,7 +134,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 
 ---
 
-### Student 2 — 📄 Document Analyst
+### Varalaxmi Jangili — 📄 Document Analyst
 
 **Data Type:** Police reports / official incident documents (PDF)
 
@@ -164,7 +164,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 
 ---
 
-### Student 3 — 📸 Image Analyst
+### Abhimanyu Raj put — 📸 Image Analyst
 
 **Data Type:** Crime scene / accident scene photographs
 
@@ -194,7 +194,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 
 ---
 
-### Student 4 — 🎥 Video Analyst
+### Divya Chukkapalli — 🎥 Video Analyst
 
 **Data Type:** CCTV / surveillance footage
 
@@ -224,7 +224,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 
 ---
 
-### Student 5 — 📝 Text Analyst
+### Ruchith Reddy Parnem — 📝 Text Analyst
 
 **Data Type:** Social media posts / news articles
 
@@ -292,34 +292,6 @@ The integration notebook generates a 4-panel dashboard:
 | **Top-Right** | Pie chart | Severity distribution (High/Medium/Low percentages) |
 | **Bottom-Left** | Horizontal bar | Top 8 event types across all modalities |
 | **Bottom-Right** | Histogram | Confidence score distribution per modality |
-
----
-
-## 5. 📦 Deliverables
-
-| # | Deliverable | Status | Details |
-|---|-------------|--------|---------|
-| 1 | **AI Pipeline Architecture Diagram** | ✅ | Visual diagram in README showing data flow from ingestion → modalities → integration |
-| 2 | **Code Repository (GitHub)** | ✅ | Folders: `/audio`, `/pdf`, `/images`, `/video`, `/text`, `/integration` with README and requirements.txt |
-| 3 | **Structured Dataset** | ✅ | `final_unified_incidents.csv` + `final_integrated_wide.csv` + `final_merged_incidents.csv` |
-| 4 | **Project Report** | ✅ | Approach, tools, datasets, challenges, and results documented |
-| 5 | **Demonstration** | ✅ | Run integration notebook end-to-end to show raw → structured flow |
-
----
-
-## 6. 📊 Marking Rubric
-
-| Criteria | Weight | Description |
-|----------|--------|-------------|
-| **Problem Understanding** | 10% | Clear understanding of the scenario, objectives, and each student's role |
-| **Data Collection** | 15% | Quality and relevance of datasets used across all five modalities |
-| **AI Model Implementation** | 25% | Correct and working use of AI techniques for each data type |
-| **Pipeline Design** | 15% | Quality and clarity of the end-to-end AI pipeline architecture |
-| **Data Integration** | 15% | Ability to successfully merge outputs from all five modalities |
-| **Code Quality** | 10% | Clean, documented, and reproducible code with a working GitHub repo |
-| **Final Demonstration** | 10% | Clarity of the live demo showing raw data converted to structured output |
-
----
 
 ## 📁 Repository Structure
 
@@ -456,7 +428,9 @@ query_incidents(df_unified, min_confidence=0.9)
         ┌─────────────────────┼─────────────────────┐
         │          │          │          │           │
    ┌────┴───┐ ┌───┴────┐ ┌───┴────┐ ┌───┴────┐ ┌───┴────┐
-   │Student1│ │Student2│ │Student3│ │Student4│ │Student5│
+   │Keerthana Gummuluri Venkata│ │Varalaxmi Jangili
+│ │Abhimanyu Raj put
+│ │Divya Chukkapalli│ │Ruchith Reddy Parnem│
    │ Audio  │ │  PDF   │ │ Image  │ │ Video  │ │  Text  │
    └────┬───┘ └───┬────┘ └───┬────┘ └───┬────┘ └───┬────┘
         │         │          │          │           │
@@ -474,123 +448,16 @@ query_incidents(df_unified, min_confidence=0.9)
               └──────────────────┘
 ```
 
-### Step-by-Step Process
-
-**1. Team Lead — Repository Setup**
-```bash
-mkdir -p audio pdf images video text integration outputs
-git init && git add . && git commit -m "Initial project structure"
-git remote add origin https://github.com/Lokeshloki1219/Multimodal-Incident-Analyzer.git
-git push -u origin main
-```
-
-**2. Team Lead — Add Collaborators**
-> GitHub repo → **Settings** → **Collaborators** → **Add people** → Enter each teammate's GitHub username
-
-**3. Each Member — Clone, Add Work, Push**
-```bash
-# Clone the repo
-git clone https://github.com/Lokeshloki1219/Multimodal-Incident-Analyzer.git
-cd Multimodal-Incident-Analyzer
-
-# Always pull latest first
-git pull
-
-# Copy your notebook and output
-cp ~/Downloads/1_Audio_Analyst.ipynb audio/audio_analyst.ipynb
-cp ~/Downloads/audio_analyst_output.csv outputs/
-
-# Push your work
-git add .
-git commit -m "Audio analyst - [Your Name]"
-git push
-```
-
-**4. Integration — Final Push**
-```bash
-git pull
-cp ~/Downloads/6_Integration_Dashboard.ipynb integration/integration.ipynb
-cp ~/Downloads/final_*.csv outputs/
-cp ~/Downloads/dashboard.png outputs/
-git add .
-git commit -m "Integration dashboard + final outputs"
-git push
-```
-
-### Git Commit History
-
-| Order | Member | Commit Message | Files |
-|-------|--------|---------------|-------|
-| 1 | Team Lead | `Initial project structure + README` | README.md, requirements.txt, folder structure |
-| 2 | Student 1 | `Audio analyst - [Name]` | `audio/audio_analyst.ipynb`, `outputs/audio_analyst_output.csv` |
-| 3 | Student 2 | `Document analyst - [Name]` | `pdf/document_analyst.ipynb`, `outputs/document_analyst_output.csv` |
-| 4 | Student 3 | `Image analyst - [Name]` | `images/image_analyst.ipynb`, `outputs/image_analyst_output.csv` |
-| 5 | Student 4 | `Video analyst - [Name]` | `video/video_analyst.ipynb`, `outputs/video_analyst_output.csv` |
-| 6 | Student 5 | `Text analyst - [Name]` | `text/text_analyst.ipynb`, `outputs/text_analyst_output.csv` |
-| 7 | Team | `Integration dashboard + final outputs` | `integration/`, `outputs/final_*.csv`, `dashboard.png` |
-
-### Collaboration Rules
-
-| Rule | Why |
-|------|-----|
-| ✅ One person pushes at a time | Avoids merge conflicts |
-| ✅ Always `git pull` before working | Ensures latest code |
-| ✅ Each member only edits their own folder | No cross-contamination |
-| ✅ Descriptive commit messages with name | Easy to track contributions |
-| ✅ Output CSVs go in shared `outputs/` | Integration notebook reads from here |
-
----
 
 ## 👥 Team
 
 | Role | Member | GitHub | Contribution |
 |------|--------|--------|-------------|
-| 🎙️ Audio Analyst | Student 1 | [@username](https://github.com/username) | Whisper transcription + spaCy NER + HuggingFace sentiment |
-| 📄 Document Analyst | Student 2 | [@username](https://github.com/username) | PDF parsing + entity extraction + OCR |
-| 📸 Image Analyst | Student 3 | [@username](https://github.com/username) | YOLOv8 object detection + scene classification + OCR |
-| 🎥 Video Analyst | Student 4 | [@username](https://github.com/username) | Frame extraction + motion detection + anomaly classification |
-| 📝 Text Analyst | Student 5 | [@username](https://github.com/username) | NER + sentiment analysis + topic classification |
+| 🎙️ Audio Analyst | Keerthana Gummuluri Venkata | [@keerthana200401](https://github.com/username) | Whisper transcription + spaCy NER + HuggingFace sentiment |
+| 📄 Document Analyst | Varalaxmi Jangili | [@varalaxmijangili12](https://github.com/username) | PDF parsing + entity extraction + OCR |
+| 📸 Image Analyst | Abhimanyu Raj put| [@Abhimanyu1801](https://github.com/username) | YOLOv8 object detection + scene classification + OCR |
+| 🎥 Video Analyst | Divya Chukkapalli | [@chukkapalli-divya](https://github.com/username) | Frame extraction + motion detection + anomaly classification |
+| 📝 Text Analyst | Ruchith Reddy Parnem | [@Ruchith1508](https://github.com/username) | NER + sentiment analysis + topic classification |
 | 🔗 Integration | All Members | — | Merge + severity scoring + dashboard + query interface |
 
 ---
-
-## 🐛 Challenges & Solutions
-
-| Challenge | Solution |
-|-----------|----------|
-| Whisper produces garbled text from 6-second noisy 911 audio | Expanded keyword dictionaries + sentiment override for obvious emergencies (shot, killed, fire → force Distressed) |
-| spaCy NER misses locations in short garbled transcripts | Combined NER entities with regex-based street pattern matching |
-| Different column names across 5 modality CSVs | Built standardization functions in integration notebook to normalize all schemas to common format |
-| No shared Incident_ID across independent datasets | Simulated cross-modal alignment by row index with clear documentation explaining production approach |
-| Missing values when modalities have different row counts | Applied `fillna("N/A")` after merge + alignment to smallest modality |
-| SST-2 sentiment model classifies violent calls as "Positive/Calm" | Added keyword-based override: if transcript contains "shot", "killed", "murder" → force "Distressed" |
-| Git merge conflicts when multiple members push | Sequential push workflow — one person at a time, always `git pull` first |
-
----
-
-## 📊 Results Summary
-
-| Metric | Value |
-|--------|-------|
-| **Total records processed** | 6,112 across 5 modalities |
-| **Audio calls transcribed** | 703 (911 emergency calls) |
-| **PDF reports parsed** | 10 (police department documents) |
-| **Images analyzed** | 5,000 (fire/smoke detection) |
-| **Video frames processed** | 284 (CCTV surveillance) |
-| **Text reports classified** | 115 (crime reports) |
-| **Final integrated incidents** | Aligned on smallest modality |
-| **Output files generated** | 3 CSVs + 1 dashboard PNG |
-
----
-
-## 📄 License
-
-This project is for academic purposes as part of the **AI for Engineers** course.
-
----
-
-<div align="center">
-
-### *"Build something that could help save lives and respond faster to emergencies."* 🚨
-
-</div>
