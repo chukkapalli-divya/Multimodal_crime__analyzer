@@ -49,8 +49,6 @@ Currently, human analysts must manually review all this information to understan
 
 All five components connect into one unified pipeline:
 
-```
-## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -58,9 +56,9 @@ All five components connect into one unified pipeline:
 │  Audio files, PDFs, images, video clips, and text posts collected   │
 └────────────────────────────────┬────────────────────────────────────┘
                                  ▼
-┌─────────────────────────────────────────────────────────────────────┐
-│  STAGE 2: AI PROCESSING PER MODALITY                                │
-│                                                                     │
+┌─────────────────────────────────────────────────────────────────────---|
+│  STAGE 2: AI PROCESSING PER MODALITY                                   │
+│                                                                        │
 │  ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ │
 │  │  Audio    │ │ Document  │ │  Image    │ │  Video    │ │   Text    │ │
 │  │           │ │           │ │           │ │           │ │           │ │
@@ -76,13 +74,13 @@ All five components connect into one unified pipeline:
 │  Key fields: event, location, time, entities, sentiment             │
 │                                                                     │
 │  audio.csv   doc.csv     image.csv    video.csv    text.csv         │
-│  (703 rows)  (10 rows)   (5000 rows)  (284 rows)   (115 rows)      │
+│  (703 rows)  (10 rows)   (5000 rows)  (284 rows)   (115 rows)       │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
 │  STAGE 4: STRUCTURED DATASET GENERATION                             │
 │  All CSVs merged into unified dataset using pandas merge/join       │
-│  Missing values: fillna("N/A") │ Severity: Low / Medium / High     │
+│  Missing values: fillna("N/A") │ Severity: Low / Medium / High      │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
