@@ -50,44 +50,46 @@ Currently, human analysts must manually review all this information to understan
 All five components connect into one unified pipeline:
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 1: UNSTRUCTURED DATA INGESTION                                        ║
-║  Audio files, PDFs, images, video clips, and text posts are collected        ║
-╚══════════════════════════════╤═══════════════════════════════════════════════╝
-                               ▼
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 2: AI PROCESSING PER MODALITY                                         ║
-║                                                                              ║
-║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐        ║
-║  │ 🎙️ Audio │  │ 📄 PDF   │  │ 📸 Image │  │ 🎥 Video │  │ 📝 Text  │          ║
-║  │          │  │          │  │          │  │          │  │          │        ║
-║  │ Whisper  │  │ PyMuPDF  │  │ YOLOv8   │  │ OpenCV   │  │ spaCy    │        ║
-║  │ spaCy    │  │ spaCy    │  │ OpenCV   │  │ YOLOv8   │  │ HugFace  │        ║
-║  │ HugFace  │  │ pdfplumb │  │ Tesseract│  │ PyTorch  │  │ NLTK     │        ║
-║  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘  └─────┬────┘        ║
-║        │             │             │             │             │             ║
-╚════════╪═════════════╪═════════════╪═════════════╪═════════════╪══════════╝
+## System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  STAGE 1: UNSTRUCTURED DATA INGESTION                               │
+│  Audio files, PDFs, images, video clips, and text posts collected   │
+└────────────────────────────────┬────────────────────────────────────┘
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│  STAGE 2: AI PROCESSING PER MODALITY                                │
+│                                                                     │
+│  ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ │
+│  │  Audio    │ │ Document  │ │  Image    │ │  Video    │ │   Text    │ │
+│  │           │ │           │ │           │ │           │ │           │ │
+│  │ Whisper   │ │ PyMuPDF   │ │ YOLOv8    │ │ OpenCV    │ │ spaCy     │ │
+│  │ spaCy     │ │ spaCy     │ │ OpenCV    │ │ YOLOv8    │ │ HugFace   │ │
+│  │ HugFace   │ │ pdfplumber│ │ Tesseract │ │ PyTorch   │ │ NLTK      │ │
+│  └─────┬─────┘ └─────┬─────┘ └─────┬─────┘ └─────┬─────┘ └─────┬─────┘ │
+│        │             │             │             │             │       │
+└────────┼─────────────┼─────────────┼─────────────┼─────────────┼───────┘
          ▼             ▼             ▼             ▼             ▼
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 3: INFORMATION EXTRACTION                                           ║
-║  Key fields extracted: event, location, time, entities, sentiment          ║
-║                                                                            ║
-║  audio.csv    doc.csv     image.csv    video.csv    text.csv               ║
-║  (703 rows)   (10 rows)   (5000 rows)  (284 rows)   (115 rows)             ║
-╚══════════════════════════╤═══════════════════════════════════════════════════╝
-                           ▼
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 4: STRUCTURED DATASET GENERATION                                    ║
-║  All extracted outputs merged into unified CSV using pandas merge/join     ║
-║  Missing values handled with fillna("N/A")                                 ║
-║  Severity classification: Low / Medium / High                              ║
-╚══════════════════════════╤═══════════════════════════════════════════════════╝
-                           ▼
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STAGE 5: DASHBOARD / QUERY SYSTEM                                         ║
-║  4-panel matplotlib dashboard + Python query interface                     ║
-║  Filter by: severity, modality, event type, confidence score               ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│  STAGE 3: INFORMATION EXTRACTION                                    │
+│  Key fields: event, location, time, entities, sentiment             │
+│                                                                     │
+│  audio.csv   doc.csv     image.csv    video.csv    text.csv         │
+│  (703 rows)  (10 rows)   (5000 rows)  (284 rows)   (115 rows)      │
+└────────────────────────────┬────────────────────────────────────────┘
+                             ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│  STAGE 4: STRUCTURED DATASET GENERATION                             │
+│  All CSVs merged into unified dataset using pandas merge/join       │
+│  Missing values: fillna("N/A") │ Severity: Low / Medium / High     │
+└────────────────────────────┬────────────────────────────────────────┘
+                             ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│  STAGE 5: DASHBOARD & QUERY SYSTEM                                  │
+│  4-panel matplotlib dashboard + Python query interface              │
+│  Filter by: severity, modality, event type, confidence score        │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Final Integrated Output Structure
