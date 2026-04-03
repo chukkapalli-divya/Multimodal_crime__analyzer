@@ -451,7 +451,7 @@ query_incidents(df_unified, min_confidence=0.9)
 
 | Role | Member | GitHub | Contribution |
 |------|--------|--------|-------------|
-| 🎙️ Audio Analyst | Keerthana Gummuluri Venkata | [@keerthana200401](https://github.com/keerthana200401]) | Whisper transcription + spaCy NER + HuggingFace sentiment |
+| 🎙️ Audio Analyst | Keerthana Gummuluri Venkata | [@keerthana200401](https://github.com/keerthana200401) | Whisper transcription + spaCy NER + HuggingFace sentiment |
 | 📄 Document Analyst | Varalaxmi Jangili | [@varalaxmijangili12](https://github.com/varalaxmijangili12) | PDF parsing + entity extraction + OCR |
 | 📸 Image Analyst | Abhimanyu Raj put| [@Abhimanyu1801](https://github.com/Abhimanyu1801) | YOLOv8 object detection + scene classification + OCR |
 | 🎥 Video Analyst | Divya Chukkapalli | [@chukkapalli-divya](https://github.com/chukkapalli-divya) | Frame extraction + motion detection + anomaly classification |
