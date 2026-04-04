@@ -74,7 +74,7 @@ All five components connect into one unified pipeline:
 │  Key fields: event, location, time, entities, sentiment             │
 │                                                                     │
 │  audio.csv   doc.csv     image.csv    video.csv    text.csv         │
-│  (703 rows)  (10 rows)   (5000 rows)  (284 rows)   (115 rows)       │
+│  (703 rows)  (29 rows)   (5000 rows)  (284 rows)   (115 rows)       │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -141,7 +141,7 @@ Each student owns one data modality end-to-end — from ingestion to structured 
 | Item | Details |
 |------|---------|
 | **Dataset** | [Arkansas Police 1033 Training Proposals](https://www.muckrock.com/foi/arkansas-114/arkansas-police-departments-1033-training-plan-proposals-20493/#file-52365) |
-| **Records** | 10 PDF reports |
+| **Records** | 29 PDF reports |
 | **Tools** | `PyMuPDF (fitz)` · `pdfplumber` · `pytesseract` · `spaCy` |
 | **Notebook** | `pdf/document_analyst.ipynb` |
 
@@ -321,7 +321,7 @@ Multimodal-Incident-Analyzer/
 │
 └── 📊 outputs/
     ├── audio_analyst_output.csv          # 703 transcribed 911 calls
-    ├── document_analyst_output.csv       # 10 parsed police PDF reports
+    ├── document_analyst_output.csv       # 29 parsed police PDF reports
     ├── image_analyst_output.csv          # 5,000 fire/smoke detected scenes
     ├── video_analyst_output.csv          # 284 CCTV analyzed frames
     ├── text_analyst_output.csv           # 115 classified crime reports
@@ -408,7 +408,7 @@ query_incidents(df_unified, min_confidence=0.9)
 | Modality | Dataset | Source | Access | Size |
 |----------|---------|--------|--------|------|
 | 🎙️ Audio | 911 Recordings — First 6 Seconds | [Kaggle](https://www.kaggle.com/datasets/louisteitelbaum/911-recordings-first-6-seconds) | Sign in → Download | 703 WAV files |
-| 📄 Document | Arkansas Police 1033 Training Proposals | [MuckRock](https://www.muckrock.com/foi/arkansas-114/arkansas-police-departments-1033-training-plan-proposals-20493/#file-52365) | Direct download, no account | 1 PDF (10 reports) |
+| 📄 Document | Arkansas Police 1033 Training Proposals | [MuckRock](https://www.muckrock.com/foi/arkansas-114/arkansas-police-departments-1033-training-plan-proposals-20493/#file-52365) | Direct download, no account | 1 PDF |
 | 📸 Image | Roboflow Fire Detection | [Roboflow](https://universe.roboflow.com/search?q=fire) | Free Roboflow account | 5,000+ images |
 | 🎥 Video | CAVIAR CCTV Dataset | [Edinburgh](https://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) | Direct download, no account | 5 MPG clips |
 | 📝 Text | CrimeReport | [Kaggle](https://www.kaggle.com/datasets/cameliasiadat/crimereport) | Sign in → Download | 115 text records |
